@@ -1,0 +1,111 @@
+{
+  "OMS": [
+    {
+      "accountId":"abs",
+      "domainId":"merchandizing",
+      "projectId":"oms",
+      "NAME": "Kiran Kala",
+      "TIMEZONE": "Onsite - US",
+      "ROLE": "Sr. Technical Lead - Onshore",
+      "Nisum / External": "Nisum",
+      "Email": "kkala@nisum.com",
+      "Client Email": "kirankumar.kala@albertsons.com"
+    },
+    {
+      "accountId":"abs",
+      "domainId":"merchandizing",
+      "projectId":"oms",
+      "NAME": "Lali Krishnamma",
+      "TIMEZONE": "Onsite - US",
+      "ROLE": "SENIOR QA ENGINEER",
+      "Nisum / External": "Nisum",
+      "Email": "lpothavarapu@nisum.com",
+      "Client Email": "lalikrishnamma.pothavarapu@albertsons.com"
+    },
+    {
+      "accountId":"abs",
+      "domainId":"merchandizing",
+      "projectId":"oms",
+      "NAME": "JNS Gandhi",
+      "TIMEZONE": "Onsite - US",
+      "ROLE": "Software Engineer",
+      "Nisum / External": "Nisum",
+      "Email": "sgandhi@nisum.com",
+      "Client Email": "jatla.gandhi@albertsons.com"
+    },
+    {
+      "accountId":"abs",
+      "domainId":"merchandizing",
+      "projectId":"oms",
+      "NAME": "Suresh Reddy Yennam",
+      "TIMEZONE": "Offshore - India",
+      "ROLE": "Technical Lead - Offshore",
+      "Nisum / External": "Nisum",
+      "Email": "yreddy@nisum.com",
+      "Client Email": "yennam.reddy@albertsons.com"
+    },
+    {
+      "accountId":"abs",
+      "domainId":"merchandizing",
+      "projectId":"oms",
+      "NAME": "RV Charan Kumar",
+      "TIMEZONE": "Offshore - India",
+      "ROLE": "Software Engineer",
+      "Nisum / External": "Nisum",
+      "Email": "rcharan@nisum.com",
+      "Client Email": "charan.kumar@albertsons.com"
+    },
+    {
+      "accountId":"abs",
+      "domainId":"merchandizing",
+      "projectId":"oms",
+      "NAME": "Saidani Begum",
+      "TIMEZONE": "Offshore - India",
+      "ROLE": "Backend",
+      "Nisum / External": "Nisum",
+      "Email": "sbegum@nisum.com",
+      "Client Email": "saidani.begum@albertsons.com"
+    },
+    {
+      "accountId":"abs",
+      "domainId":"merchandizing",
+      "projectId":"oms",
+      "NAME": "Rajkumar Pamu",
+      "TIMEZONE": "Offshore - India",
+      "ROLE": "Backend",
+      "Nisum / External": "Nisum",
+      "Email": "rpamu@nisum.com",
+      "Client Email": "Rajkumar.pamu@albertsons.com"
+    },
+    {
+      "accountId":"abs",
+      "domainId":"merchandizing",
+      "projectId":"oms",
+      "NAME": "Sudharshan Reddy",
+      "TIMEZONE": "Offshore - India",
+      "ROLE": "QE",
+      "Nisum / External": "Nisum",
+      "Email": "sreddy@nisum.com",
+      "Client Email": "sudharshan.reddy@albertsons.com"
+    },
+    {
+      "accountId":"abs",
+      "domainId":"merchandizing",
+      "projectId":"oms",
+      "NAME": "MD Khaja Mainuddin",
+      "TIMEZONE": "Offshore - India",
+      "ROLE": "QE",
+      "Nisum / External": "Nisum",
+      "Email": "mmainaddin@nisum.com"
+    },
+    {
+      "accountId":"abs",
+      "domainId":"merchandizing",
+      "projectId":"oms",
+      "NAME": "Kiran Penumuru",
+      "TIMEZONE": "Offshore - India",
+      "ROLE": "Frontend",
+      "Nisum / External": "Nisum"
+    }
+  ]
+}

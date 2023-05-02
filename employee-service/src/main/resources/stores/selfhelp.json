@@ -1,0 +1,36 @@
+{
+  "Self Help": [
+    {
+      "accountId":"abs",
+      "domainId":"stores",
+      "projectId":"selfhelp",
+      "NAME": "V V Lakshmi Amara",
+      "TIMEZONE": "IST",
+      "ROLE": "Application Developer",
+      "Nisum / External": "Nisum",
+      "Email": "vamara@nisum.com",
+      "Client Email": "VenkataVijayaLakshmi.Amara@albertsons.com",
+      "Contact": 7306959049
+    },
+    {
+      "accountId":"abs",
+      "domainId":"stores",
+      "projectId":"selfhelp",
+      "NAME": "KUMAR PANDA, JYOTIB",
+      "TIMEZONE": "IST",
+      "ROLE": "Senior Quality Engineer",
+      "Nisum / External": "Nisum",
+      "Email": "jpanda@nisum.com"
+    },
+    {
+      "accountId":"abs",
+      "domainId":"stores",
+      "projectId":"selfhelp",
+      "NAME": "NARAYANAM, GOPINADH",
+      "TIMEZONE": "US",
+      "ROLE": "UI Developer",
+      "Email": "gnarayanam@nisum.com",
+      "Contact": "940-290-1145"
+    }
+  ]
+}

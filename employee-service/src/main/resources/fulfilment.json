@@ -1,0 +1,314 @@
+{
+  "Fulfilment": [
+    {
+      "AcuPick": [
+        {
+          "NAME": "Rajani Maamidi",
+          "TIMEZONE": "PST",
+          "ROLE": "Project Manager",
+          "Nisum / External": "Nisum",
+          "Email": "rmaamidi@nisum.com",
+          "Client Email": "rajani.maamidi@albertsons.com"
+        },
+        {
+          "NAME": "Praveen Adireddi",
+          "TIMEZONE": "Bangalore/ IST",
+          "ROLE": "BE Developer/Tech Lead",
+          "Nisum / External": "Nisum",
+          "Email": "apraveen@nisum.com",
+          "Client Email": "praveen.adireddi@albertsons.com",
+          "Contact": 8867185468
+        },
+        {
+          "NAME": "Ramya Tirumalapuram",
+          "TIMEZONE": "Hyderabad /IST",
+          "ROLE": "UI Developer (Web)",
+          "Nisum / External": "Nisum",
+          "Email": "rtirumalapuram@nisum.com",
+          "Client Email": "ramya.tirumalapuram@albertsons.com"
+        },
+        {
+          "NAME": "Asem Noufal",
+          "TIMEZONE": "PST",
+          "ROLE": "Backend developer",
+          "Nisum / External": "Nisum",
+          "Email": "anoufal@nisum.com",
+          "Client Email": "asem.noufal@albertsons.com"
+        },
+        {
+          "NAME": "Varun Gunjapalli",
+          "TIMEZONE": "PST",
+          "ROLE": "QA Lead",
+          "Nisum / External": "Nisum",
+          "Email": "vgunjapally@nisum.com",
+          "Client Email": "varun.gunjapally@albertsons.com",
+          "Contact": "001 415 650 9132"
+        },
+        {
+          "NAME": "Madhuri kata",
+          "TIMEZONE": "PST",
+          "ROLE": "QA",
+          "Nisum / External": "Nisum",
+          "Email": "mkata@nisum.com",
+          "Client Email": "madhuri.kata@albertsons.com"
+        },
+        {
+          "NAME": "Jamie Chou",
+          "TIMEZONE": "PST",
+          "ROLE": "Product Designer",
+          "Nisum / External": "Nisum"
+        }
+      ]
+    },
+    {
+      "Control Tower": [
+        {
+          "NAME": "Sindhuja",
+          "TIMEZONE": "IST",
+          "ROLE": "UI developer",
+          "Nisum / External": "Nisum",
+          "Email": "sakula@nisum.com",
+          "Client Email": "sakul03@safeway.com",
+          "Contact": 8106029321
+        },
+        {
+          "NAME": "Ravi Kiran Veedhi",
+          "TIMEZONE": "IST",
+          "ROLE": "Backend developer",
+          "Nisum / External": "Nisum",
+          "Email": "vkiran@nisum.com",
+          "Client Email": "rveed02@safeway.com",
+          "Contact": 9581355557
+        },
+        {
+          "NAME": "Pramod kumar M",
+          "TIMEZONE": "IST",
+          "ROLE": "Backend developer",
+          "Nisum / External": "Nisum",
+          "Email": "prkumar@nisum.com",
+          "Client Email": "pkuma34@safeway.com",
+          "Contact": 8179655838
+        }
+      ]
+    },
+    {
+      "Digital Order Management System (DOMS)": [
+        {
+          "__EMPTY": "",
+          "NAME": "Kanwaljit Kaur",
+          "TIMEZONE": "PST",
+          "ROLE": "Scrum Master",
+          "Nisum / External": "Nisum",
+          "Email": "kakaur@nisum.com",
+          "Client Email": "Kanwaljit.Kaur@albertsons.com"
+        },
+        {
+          "NAME": "Mrudula Phulgirkar",
+          "TIMEZONE": "PST",
+          "ROLE": "Product Specialist",
+          "Nisum / External": "Nisum",
+          "Email": "mphulgirkar@nisum.com",
+          "Client Email": "Mrudula.Phulgirkar@albertsons.com"
+        },
+        {
+          "NAME": "Satya Mahendravada",
+          "TIMEZONE": "PST",
+          "ROLE": "Team Lead",
+          "Nisum / External": "Nisum",
+          "Email": "smahendravada@nisum.com",
+          "Client Email": "satya.mahendravada@albertsons.com",
+          "Contact": "510-415-9574"
+        },
+        {
+          "NAME": "Manjusha Allu",
+          "TIMEZONE": "PST",
+          "ROLE": "Domain Lead",
+          "Nisum / External": "Nisum",
+          "Email": "mallu@nisum.com",
+          "Client Email": "manjusha.allu@albertsons.com",
+          "Contact": "309-532-9537"
+        },
+        {
+          "NAME": "Lakshmi Kiran P",
+          "TIMEZONE": "PST",
+          "ROLE": "Developer",
+          "Nisum / External": "Nisum",
+          "Email": "lpanem@nisum.com",
+          "Client Email": "lakshmikiran.panem@albertsons.com",
+          "Contact": "510-598-5194"
+        },
+        {
+          "NAME": "Radon N",
+          "TIMEZONE": "PST",
+          "ROLE": "Developer",
+          "Nisum / External": "Nisum",
+          "Client Email": "radon.nagabathini@albertsons.com"
+        },
+        {
+          "NAME": "Praveen Reddy Midigesi",
+          "TIMEZONE": "PST",
+          "ROLE": "Developer",
+          "Nisum / External": "Nisum",
+          "Email": "pmidigesi@nisum.com"
+        },
+        {
+          "NAME": "Rishi Bharadwaj Avvaru",
+          "TIMEZONE": "PST",
+          "ROLE": "Developer",
+          "Nisum / External": "Nisum"
+        },
+        {
+          "NAME": "Kazim",
+          "TIMEZONE": "PST",
+          "ROLE": "SRE",
+          "Nisum / External": "Nisum"
+        },
+        {
+          "NAME": "Vishnupriya Rachapudi",
+          "TIMEZONE": "PST",
+          "ROLE": "QA",
+          "Nisum / External": "Nisum"
+        },
+        {
+          "NAME": "Radhika Machavarapu",
+          "TIMEZONE": "PST",
+          "ROLE": "QA",
+          "Nisum / External": "Nisum"
+        },
+        {
+          "NAME": "Prameela Medarametla",
+          "TIMEZONE": "PST",
+          "ROLE": "QA",
+          "Nisum / External": "Nisum"
+        },
+        {
+          "NAME": "Haribabu Govarthanagiri",
+          "TIMEZONE": "PST",
+          "ROLE": "QA",
+          "Nisum / External": "Nisum"
+        },
+        {
+          "NAME": "Andrii Prysiazhnyi",
+          "TIMEZONE": "PST",
+          "ROLE": "QA",
+          "Nisum / External": "Nisum"
+        },
+        {
+          "NAME": "Krishna Prasad N",
+          "TIMEZONE": "PST",
+          "ROLE": "SRE",
+          "Nisum / External": "External"
+        },
+        {
+          "NAME": "Nageswara Rao",
+          "TIMEZONE": "IST",
+          "ROLE": "Developer",
+          "Nisum / External": "Nisum",
+          "Email": "grao@nisum.com",
+          "Client Email": "nageswararao.grandhisila@albertsons.com",
+          "Contact": "988-618-1514"
+        },
+        {
+          "NAME": "Rajasekhar Molleti",
+          "TIMEZONE": "IST",
+          "ROLE": "Developer",
+          "Nisum / External": "Nisum",
+          "Email": "rmolleti@nisum.com",
+          "Client Email": "rajasekhar.molleti@albertsons.com",
+          "Contact": "798-907-5294"
+        },
+        {
+          "NAME": "Sanjeev Kumar Katthi",
+          "TIMEZONE": "PST",
+          "ROLE": "Developer",
+          "Nisum / External": "Nisum",
+          "Email": "skatthi@nisum.com",
+          "Client Email": "sanjeev.kathi@albertsons.com",
+          "Contact": "510-826-7161"
+        },
+        {
+          "NAME": "Swamy Nandhan Gowrisetty",
+          "TIMEZONE": "IST",
+          "ROLE": "Developer",
+          "Nisum / External": "Nisum",
+          "Email": "sgowrisetty@nisum.com",
+          "Client Email": "swamy.gowrisetty@albertsons.com",
+          "Contact": "902-202-4365"
+        },
+        {
+          "NAME": "Bhargav Tummala",
+          "TIMEZONE": "IST",
+          "ROLE": "Developer",
+          "Nisum / External": "Nisum",
+          "Email": "btummala@nisum.com",
+          "Client Email": "Bhargav.Tummala@albertsons.com"
+        },
+        {
+          "NAME": "Srinivas Beepyata",
+          "TIMEZONE": "IST",
+          "ROLE": "Team Lead",
+          "Nisum / External": "Nisum",
+          "Email": "sbeepyata@nisum.com",
+          "Client Email": "srinivas.beepyata@albertsons.com",
+          "Contact": 8790194145
+        },
+        {
+          "NAME": "Pathan Wasim",
+          "TIMEZONE": "IST",
+          "ROLE": "Developer",
+          "Nisum / External": "Nisum",
+          "Email": "pwasikkhan@nisum.com",
+          "Client Email": "Pathan.Wasim@albertsons.com",
+          "Contact": 9604210105
+        },
+        {
+          "NAME": "Priyanka Rapolu",
+          "TIMEZONE": "IST",
+          "ROLE": "QA",
+          "Nisum / External": "Nisum",
+          "Email": "prapolu@nisum.com",
+          "Client Email": "Priyanka.Rapolu@albertsons.com"
+        },
+        {
+          "NAME": "Sonia Malyala",
+          "TIMEZONE": "IST",
+          "ROLE": "QA",
+          "Nisum / External": "Nisum",
+          "Email": "somalyala@nisum.com",
+          "Client Email": "Sonia.Malyala@albertsons.com"
+        },
+        {
+          "NAME": "Vimal Babu Kuppuswamy Bharathi",
+          "TIMEZONE": "IST",
+          "ROLE": "Developer",
+          "Nisum / External": "Nisum",
+          "Email": "vbharathi@nisum.com",
+          "Client Email": "VimalBabu.KuppuswamyBharathi@albertsons.com"
+        },
+        {
+          "NAME": "Usman Syed",
+          "TIMEZONE": "IST",
+          "ROLE": "QA",
+          "Nisum / External": "Nisum"
+        },
+        {
+          "NAME": "Malav Parekh",
+          "TIMEZONE": "IST",
+          "ROLE": "Automation Engr",
+          "Nisum / External": "Nisum",
+          "Email": "mparekh@nisum.com",
+          "Client Email": "Malav.Parekh@albertsons.com"
+        },
+        {
+          "NAME": "Esther Sugandhi Beedilla",
+          "TIMEZONE": "IST",
+          "ROLE": "Project Manager",
+          "Nisum / External": "Nisum",
+          "Email": "bsugandhi@nisum.com",
+          "Client Email": "EstherSugandhi.Beedilla@albertsons.com",
+          "Contact": 9100822558
+        }
+      ]
+    }
+  ]
+}

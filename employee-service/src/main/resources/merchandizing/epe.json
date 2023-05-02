@@ -1,0 +1,154 @@
+{
+  "EPE": [
+    {
+      "accountId":"abs",
+      "domainId":"merchandizing",
+      "projectId":"epe",
+      "NAME": "Sarath Chandra Medepally",
+      "TIMEZONE": "IST",
+      "ROLE": "Scrum Master",
+      "Nisum / External": "Nisum",
+      "Email": "smedepally@nisum.com",
+      "Client Email": "Sarath.Medepally@albertsons.com",
+      "Contact": 9886008237
+    },
+    {
+      "accountId":"abs",
+      "domainId":"merchandizing",
+      "projectId":"epe",
+      "NAME": "Durga Prasad Yandrapu",
+      "TIMEZONE": "IST",
+      "ROLE": "Senior Quality Automation Engineer",
+      "Nisum / External": "Nisum",
+      "Email": "dyandrapu@nisum.com",
+      "Client Email": "Durgaprasad.Yandrapu@albertsons.com",
+      "Contact": 9676127443
+    },
+    {
+      "accountId":"abs",
+      "domainId":"merchandizing",
+      "projectId":"epe",
+      "NAME": "Rakesh Mareddy - QA Lead",
+      "TIMEZONE": "IST",
+      "ROLE": "Senior Quality Automation Engineer",
+      "Nisum / External": "Nisum",
+      "Email": "ramareddy@nisum.com",
+      "Client Email": "Rakesh.Mareddy@albertsons.com",
+      "Contact": 9908241283
+    },
+    {
+      "accountId":"abs",
+      "domainId":"merchandizing",
+      "projectId":"epe",
+      "NAME": "Masarat Unnisa",
+      "TIMEZONE": "IST",
+      "ROLE": "Senior Quality Automation Engineer",
+      "Nisum / External": "Nisum",
+      "Email": "munnisa@nisum.com",
+      "Client Email": "Masarat.Unnisa@albertsons.com",
+      "Contact": 9100323496
+    },
+    {
+      "accountId":"abs",
+      "domainId":"merchandizing",
+      "projectId":"epe",
+      "NAME": "Vikas Katru",
+      "TIMEZONE": "IST",
+      "ROLE": "Senior Application Developer",
+      "Nisum / External": "Nisum",
+      "Email": "vkatru@nisum.com",
+      "Client Email": "Vikas.Katru@albertsons.com",
+      "Contact": 9700656492
+    },
+    {
+      "accountId":"abs",
+      "domainId":"merchandizing",
+      "projectId":"epe",
+      "NAME": "Simhadri Guntreddi",
+      "TIMEZONE": "IST",
+      "ROLE": "Application Developer",
+      "Nisum / External": "Nisum",
+      "Email": "sguntreddi@nisum.com",
+      "Client Email": "Simhadri.Guntreddi@albertsons.com",
+      "Contact": 9553983682
+    },
+    {
+      "accountId":"abs",
+      "domainId":"merchandizing",
+      "projectId":"epe",
+      "NAME": "Sowjanya Nara",
+      "TIMEZONE": "IST",
+      "ROLE": "Quality Automation Engineer",
+      "Nisum / External": "Nisum",
+      "Email": "ssowjanya@nisum.com",
+      "Client Email": "Sowjanya.Nara@albertsons.com",
+      "Contact": 9741393471
+    },
+    {
+      "accountId":"abs",
+      "domainId":"merchandizing",
+      "projectId":"epe",
+      "NAME": "Dantesh Pallapothu",
+      "TIMEZONE": "IST",
+      "ROLE": "Senior Application Developer",
+      "Nisum / External": "Nisum",
+      "Email": "dpallapothu@nisum.com",
+      "Client Email": "Dantesh.Pallapothu@albertsons.com"
+    },
+    {
+      "accountId":"abs",
+      "domainId":"merchandizing",
+      "projectId":"epe",
+      "NAME": "Saipratapreddy Kurmayyag",
+      "TIMEZONE": "IST",
+      "ROLE": "Senior Data Engineer",
+      "Nisum / External": "Nisum",
+      "Client Email": "Saipratapreddy.Kurmayyagari2@albertsons.com",
+      "Contact": 9703116736
+    },
+    {
+      "accountId":"abs",
+      "domainId":"merchandizing",
+      "projectId":"epe",
+      "NAME": "Abdul Mujeeb Mohammed",
+      "TIMEZONE": "IST",
+      "ROLE": "Principal Software engineer",
+      "Nisum / External": "Nisum",
+      "Client Email": "AbdulMujeeb.Mohammed@albertsons.com",
+      "Contact": "91829 22741"
+    },
+    {
+      "accountId":"abs",
+      "domainId":"merchandizing",
+      "projectId":"epe",
+      "NAME": "Rajesh Kumar Gajjala",
+      "TIMEZONE": "PST",
+      "ROLE": "Tech Lead",
+      "Nisum / External": "Nisum",
+      "Email": "vrajesh@nisum.com",
+      "Client Email": "RajeshKumar.Gajjala@albertsons.com"
+    },
+    {
+      "accountId":"abs",
+      "domainId":"merchandizing",
+      "projectId":"epe",
+      "NAME": "Ravi Gummala",
+      "TIMEZONE": "PST",
+      "ROLE": "CCL ACI",
+      "Nisum / External": "Nisum",
+      "Email": "rgummala@nisum.com",
+      "Client Email": "Ravi.Gummala@albertsons.com"
+    },
+    {
+      "accountId":"abs",
+      "domainId":"merchandizing",
+      "projectId":"epe",
+      "NAME": "Ranjitha Naidu",
+      "TIMEZONE": "PST",
+      "ROLE": "Technical Lead - DI",
+      "Nisum / External": "Nisum",
+      "Email": "rnaidu@nisum.com",
+      "Client Email": "Ranjitha.Naidu@albertsons.com"
+    }
+  ]
+}

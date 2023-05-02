@@ -1,0 +1,119 @@
+{
+  "Unified Pricing Platform (Base Pricing)": [
+    {
+      "NAME": "Sowmya Narahari",
+      "TIMEZONE": "IST",
+      "ROLE": "Sr. Scrum Master",
+      "Nisum / External": "Nisum",
+      "Email": "snarahari@nisum.com",
+      "Client Email": "Sowmya.Narahari@albertsons.com",
+      "Contact": 7207710615
+    },
+    {
+      "NAME": "Joe Khan",
+      "TIMEZONE": "USA",
+      "ROLE": "Onsite Services Lead",
+      "Nisum / External": "Nisum",
+      "Email": "jokhan@nisum.com",
+      "Client Email": "joe.khan@albertsons.com"
+    },
+    {
+      "NAME": "Jagadeesh Thileti",
+      "TIMEZONE": "IST",
+      "ROLE": "Team Lead - Offshore",
+      "Nisum / External": "Nisum",
+      "Email": "jthileti@nisum.com",
+      "Client Email": "jagdeesh.thileti@albertsons.com",
+      "Contact": 9642649091
+    },
+    {
+      "NAME": "Ramaraju Sanjeevi",
+      "TIMEZONE": "IST",
+      "ROLE": "UI Developer",
+      "Nisum / External": "Nisum",
+      "Email": "rsanjeevi@nisum.com",
+      "Client Email": "ramaraju.sanjeevi@albertsons.com",
+      "Contact": 8096822308
+    },
+    {
+      "NAME": "Galib Shaheed Khan",
+      "TIMEZONE": "IST",
+      "ROLE": "Backend Developer",
+      "Nisum / External": "Nisum",
+      "Email": "gkhan@nisum.com",
+      "Client Email": "shaheedkhan.galib@albertsons.com",
+      "Contact": 9581110511
+    },
+    {
+      "NAME": "Charan Pasupuleti",
+      "TIMEZONE": "IST",
+      "ROLE": "QA Lead - Offshore",
+      "Nisum / External": "Nisum",
+      "Email": "cpasupuleti@nisum.com",
+      "Client Email": "charankumar.pasupuleti@albertsons.com",
+      "Contact": 9949082808
+    },
+    {
+      "NAME": "Mohammed imitiyaz ahmed",
+      "TIMEZONE": "IST",
+      "ROLE": "Backend Developer",
+      "Nisum / External": "Nisum",
+      "Email": "mohahmed@nisum.com",
+      "Client Email": "MohammedImitiyaz.Ahmed@albertsons.com",
+      "Contact": 8096060258
+    },
+    {
+      "NAME": "Vinodh Kumar Molli",
+      "TIMEZONE": "IST",
+      "ROLE": "UI Developer",
+      "Nisum / External": "Nisum",
+      "Email": "vmolli@nisum.com",
+      "Client Email": "vinodkumar.molli@albertsons.com",
+      "Contact": 8897229293
+    },
+    {
+      "NAME": "Ramu dosapati",
+      "TIMEZONE": "IST",
+      "ROLE": "UI Developer",
+      "Nisum / External": "Nisum",
+      "Email": "rdosapati@nisum.com",
+      "Client Email": "Ramu.Dosapati@albertsons.com",
+      "Contact": 9121045305
+    },
+    {
+      "NAME": "Shravani gaddam",
+      "TIMEZONE": "IST",
+      "ROLE": "QA",
+      "Nisum / External": "Nisum",
+      "Email": "SGADDAM@nisum.com",
+      "Client Email": "sravani.gaddam@albertsons.com",
+      "Contact": 9963530768
+    },
+    {
+      "NAME": "Venkateshwarlu thota",
+      "TIMEZONE": "IST",
+      "ROLE": "QA",
+      "Nisum / External": "Nisum",
+      "Email": "vthota@nisum.com",
+      "Client Email": "venkateswarlu.thota@albertsons.com",
+      "Contact": 8885766940
+    },
+    {
+      "NAME": "Sumalatha gadiraju",
+      "TIMEZONE": "IST",
+      "ROLE": "QA",
+      "Nisum / External": "Nisum",
+      "Email": "sugadiraju@nisum.com",
+      "Client Email": "sumalatha.gadiraju@albertsons.com",
+      "Contact": 9493517188
+    },
+    {
+      "NAME": "Venkata Rajesh kommneni",
+      "TIMEZONE": "USA",
+      "ROLE": "QA",
+      "Nisum / External": "Nisum",
+      "Email": "vkommineni@nisum.com",
+      "Client Email": "venkatarajesh.kommineni@albertsons.com"
+    }
+  ]
+}

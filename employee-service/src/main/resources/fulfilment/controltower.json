@@ -1,0 +1,31 @@
+{
+  "Control Tower": [
+    {
+      "NAME": "Sindhuja",
+      "TIMEZONE": "IST",
+      "ROLE": "UI developer",
+      "Nisum / External": "Nisum",
+      "Email": "sakula@nisum.com",
+      "Client Email": "sakul03@safeway.com",
+      "Contact": 8106029321
+    },
+    {
+      "NAME": "Ravi Kiran Veedhi",
+      "TIMEZONE": "IST",
+      "ROLE": "Backend developer",
+      "Nisum / External": "Nisum",
+      "Email": "vkiran@nisum.com",
+      "Client Email": "rveed02@safeway.com",
+      "Contact": 9581355557
+    },
+    {
+      "NAME": "Pramod kumar M",
+      "TIMEZONE": "IST",
+      "ROLE": "Backend developer",
+      "Nisum / External": "Nisum",
+      "Email": "prkumar@nisum.com",
+      "Client Email": "pkuma34@safeway.com",
+      "Contact": 8179655838
+    }
+  ]
+}

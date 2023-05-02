@@ -1,0 +1,49 @@
+{
+  "Store Mobility": [
+    {
+      "NAME": "Mounika Namepally",
+      "TIMEZONE": "Nisum India",
+      "ROLE": "Backend Dev",
+      "Nisum / External": "Nisum",
+      "Email": "mnamepally@nisum.com",
+      "Client Email": "mounika.namepally@albertsons.com",
+      "Contact": 9000133926
+    },
+    {
+      "NAME": "Narendra Ponduri",
+      "TIMEZONE": "Nisum India",
+      "ROLE": "Backend Dev",
+      "Nisum / External": "Nisum",
+      "Email": "naponduri@nisum.com",
+      "Client Email": "narendra.ponduri@albertsons.com",
+      "Contact": 7702839436
+    },
+    {
+      "NAME": "Sumalatha Popuri",
+      "TIMEZONE": "Nisum India",
+      "ROLE": "QE",
+      "Nisum / External": "Nisum",
+      "Email": "spopuri@nisum.com",
+      "Client Email": "sumalatha.popuri@albertsons.com",
+      "Contact": 7386757300
+    },
+    {
+      "NAME": "Jayendra Achen",
+      "TIMEZONE": "Nisum USA",
+      "ROLE": "Backend Dev",
+      "Nisum / External": "Nisum",
+      "Email": "jachen@nisum.com",
+      "Client Email": "jayendra.achen@albertsons.com",
+      "Contact": "001 336 391 8222"
+    },
+    {
+      "NAME": "Babu Perumalla",
+      "TIMEZONE": "Nisum USA",
+      "ROLE": "Backend Dev",
+      "Nisum / External": "Nisum",
+      "Email": "sperumalla@nisum.com",
+      "Client Email": "babu.perumalla@albertsons.com",
+      "Contact": "001 714 579 7979"
+    }
+  ]
+}

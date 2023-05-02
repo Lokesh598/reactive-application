@@ -1,0 +1,123 @@
+{
+  "Data Engineering": [
+    {
+      "accountId": "abs",
+      "domainId": "devops",
+      "projectId": "dataengineering",
+      "NAME": "Tara Veeravalli",
+      "TIMEZONE": "PST",
+      "ROLE": "Project Manager",
+      "Nisum / External": "Nisum",
+      "Email": "tveeravalli@nisum.com",
+      "Client Email": "tara.veeravalli@albertson.com",
+      "Contact": "408-390-1463"
+    },
+    {
+      "accountId": "abs",
+      "domainId": "devops",
+      "projectId": "dataengineering",
+      "NAME": "Subramanyam Popuri",
+      "TIMEZONE": "PST",
+      "ROLE": "Data Engineer",
+      "Nisum / External": "Nisum",
+      "Email": "svpopuri@nisum.com",
+      "Client Email": "sunramanyam.popuri@albertsons.com",
+      "Contact": 9949074887
+    },
+    {
+      "accountId": "abs",
+      "domainId": "devops",
+      "projectId": "dataengineering",
+      "NAME": "Ravindranadh Chadalawada",
+      "TIMEZONE": "IST",
+      "ROLE": "Data Engineer",
+      "Nisum / External": "Nisum",
+      "Email": "rchadalawada@nisum.com",
+      "Client Email": "ravindranadh.chadalawada@albertsons.com",
+      "Contact": 9347351892
+    },
+    {
+      "accountId": "abs",
+      "domainId": "devops",
+      "projectId": "dataengineering",
+      "NAME": "Sunith Chethan Annamraj",
+      "TIMEZONE": "IST",
+      "ROLE": "Data Engineer",
+      "Nisum / External": "Nisum",
+      "Email": "sannamraj@nisum.com",
+      "Client Email": "sunithchethan.annamraj@albertsons.com",
+      "Contact": 9502875342
+    },
+    {
+      "accountId": "abs",
+      "domainId": "devops",
+      "projectId": "dataengineering",
+      "NAME": "Dhanasekhar Subramaniam",
+      "TIMEZONE": "PST",
+      "ROLE": "Data Engineer",
+      "Nisum / External": "Nisum",
+      "Email": "sannamraj@nisum.com",
+      "Client Email": "dhanasekhar.subramaniam@albertsons.com",
+      "Contact": 9722073318
+    },
+    {
+      "accountId": "abs",
+      "domainId": "devops",
+      "projectId": "dataengineering",
+      "NAME": "Jaganathan Visvanathan",
+      "TIMEZONE": "IST",
+      "ROLE": "Data Engineer",
+      "Nisum / External": "Nisum",
+      "Email": "jvisvanathan@nisum.com",
+      "Client Email": "jaganathan.visvanathan@albertsons.com",
+      "Contact": 9255482384
+    },
+    {
+      "accountId": "abs",
+      "domainId": "devops",
+      "projectId": "dataengineering",
+      "NAME": "Premkumar Bejugam",
+      "TIMEZONE": "IST",
+      "ROLE": "Technical Lead",
+      "Nisum / External": "Nisum",
+      "Email": "pbejugam@nisum.com",
+      "Client Email": "premkumar.bejugam@albertsons.com",
+      "Contact": 9980557080
+    },
+    {
+      "accountId": "abs",
+      "domainId": "devops",
+      "projectId": "dataengineering",
+      "NAME": "Bala Kumar",
+      "TIMEZONE": "IST",
+      "ROLE": "DevOps Engineer",
+      "Nisum / External": "Nisum",
+      "Email": "bkumar@nisum.com",
+      "Client Email": "balasharan.kumar@albertsons.com",
+      "Contact": 9963642317
+    },
+    {
+      "accountId": "abs",
+      "domainId": "devops",
+      "projectId": "dataengineering",
+      "NAME": "Nava Chaitanya Kommoju",
+      "TIMEZONE": "IST",
+      "ROLE": "Sr.DevOps Engineer",
+      "Nisum / External": "Nisum",
+      "Email": "nkommoju@nisum.com",
+      "Client Email": "navachaitanya.kommoju@albertsons.com",
+      "Contact": 868823388
+    },
+    {
+      "accountId": "abs",
+      "domainId": "devops",
+      "projectId": "dataengineering",
+      "NAME": "Amena Afreen",
+      "TIMEZONE": "CST",
+      "ROLE": "Sr.DevOps Engineer",
+      "Nisum / External": "Nisum",
+      "Email": "aafreen@nisum.com",
+      "Client Email": "amena.afreen@albertsons.com"
+    }
+  ]
+}

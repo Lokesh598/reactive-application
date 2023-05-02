@@ -1,0 +1,94 @@
+{
+  "FreshPass": [
+    {
+      "NAME": "Srinivas Kollaparthi",
+      "TIMEZONE": "IST",
+      "ROLE": "Offshore Team Lead",
+      "Nisum / External": "Nisum",
+      "Email": "skollaparthi@nisum.com",
+      "Client Email": "Srinivas.Kollaparthi@albertsons.com",
+      "Contact": 9666016527
+    },
+    {
+      "NAME": "Rama Srinivasa Boja",
+      "TIMEZONE": "IST",
+      "ROLE": "Backend Developer",
+      "Nisum / External": "Nisum"
+    },
+    {
+      "NAME": "Sagar Bethi",
+      "TIMEZONE": "IST",
+      "ROLE": "Backend Developer",
+      "Nisum / External": "Nisum",
+      "Client Email": "bethi.sagar@albertsons.com"
+    },
+    {
+      "NAME": "Sumit Kumar",
+      "TIMEZONE": "IST",
+      "ROLE": "Backend Developer",
+      "Nisum / External": "Nisum",
+      "Client Email": "sumit.kumar@albertsons.com",
+      "Contact": 8017347981
+    },
+    {
+      "NAME": "Venkataramana Prodduturi",
+      "TIMEZONE": "IST",
+      "ROLE": "Backend Developer",
+      "Nisum / External": "Nisum",
+      "Client Email": "venkataramana.prodduturi@albertsons.com"
+    },
+    {
+      "NAME": "Venkata Harish Sambhumahanthi*",
+      "TIMEZONE": "IST",
+      "ROLE": "Backend Developer",
+      "Nisum / External": "Nisum"
+    },
+    {
+      "NAME": "Sathyam Nithin",
+      "TIMEZONE": "IST",
+      "ROLE": "Quality Engineer(Offshore QA Lead)",
+      "Nisum / External": "Nisum",
+      "Client Email": "sathyam.nithin@albertsons.com",
+      "Contact": 8099703026
+    },
+    {
+      "NAME": "Gauthami Howdekar",
+      "TIMEZONE": "IST",
+      "ROLE": "Quality Engineer",
+      "Nisum / External": "Nisum",
+      "Client Email": "howdekar.gauthami@albertsons.com"
+    },
+    {
+      "NAME": "Kuldip Rajabhau Chincholkar",
+      "TIMEZONE": "IST",
+      "ROLE": "Quality Engineer",
+      "Nisum / External": "Nisum",
+      "Client Email": "kuldip.chincholkar@albertsons.com"
+    },
+    {
+      "NAME": "Harjot Singh Chadha*",
+      "TIMEZONE": "IST",
+      "ROLE": "Front End Developer",
+      "Nisum / External": "Nisum"
+    },
+    {
+      "NAME": "Sushanth Avvaru",
+      "TIMEZONE": "PST",
+      "ROLE": "Front End Developer",
+      "Nisum / External": "Nisum"
+    },
+    {
+      "NAME": "Arun Bulguri",
+      "TIMEZONE": "PST",
+      "ROLE": "Quality Engineer",
+      "Nisum / External": "Nisum",
+      "Client Email": "arun.bulguri@albertsons.com"
+    },
+    {
+      "NAME": "Aparna Vallabhaneni",
+      "TIMEZONE": "PST",
+      "ROLE": "Quality Engineer",
+      "Nisum / External": "Nisum"
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "Engineering Excellence": [
+    {
+      "accountId":"abs",
+      "domainId":"shoperexperience",
+      "projectId":"engineeringexcellence",
+      "NAME": "Subramanyam Chetty",
+      "TIMEZONE": "IST",
+      "ROLE": "Project Manager",
+      "Nisum / External": "Nisum",
+      "Email": "mchetty@nisum.com",
+      "Client Email": "Subramanyam.Chetty@albertsons.com",
+      "Contact": 9849513953
+    },
+    {
+      "accountId":"abs",
+      "domainId":"shoperexperience",
+      "projectId":"engineeringexcellence",
+      "NAME": "Raviteja Gorthi",
+      "TIMEZONE": "IST",
+      "ROLE": "Application Developer",
+      "Nisum / External": "Nisum",
+      "Email": "rtgorthi@nisum.com",
+      "Client Email": "ravi.gorthi2@albertsons.com",
+      "Contact": 9398572612
+    },
+    {
+      "accountId":"abs",
+      "domainId":"shoperexperience",
+      "projectId":"engineeringexcellence",
+      "NAME": "Rajendra Prasad Dava",
+      "TIMEZONE": "IST",
+      "ROLE": "Support Analyst",
+      "Nisum / External": "Nisum",
+      "Email": "rdava@nisum.com",
+      "Client Email": "rajendra.dava@albertsons.com",
+      "Contact": 8885125491
+    },
+    {
+      "accountId":"abs",
+      "domainId":"shoperexperience",
+      "projectId":"engineeringexcellence",
+      "NAME": "Kumar Reddy P",
+      "TIMEZONE": "IST",
+      "ROLE": "Automation QA Engineer",
+      "Nisum / External": "Nisum",
+      "Email": "poreddy@nisum.com",
+      "Client Email": "ponnolukumar.reddy@albertsons.com",
+      "Contact": 7569042456
+    },
+    {
+      "accountId":"abs",
+      "domainId":"shoperexperience",
+      "projectId":"engineeringexcellence",
+      "NAME": "Mohana Simhadri Srinivasa Rao Anupoju",
+      "TIMEZONE": "IST",
+      "ROLE": "Support Analyst",
+      "Nisum / External": "Nisum",
+      "Email": "manupoju@nisum.com",
+      "Client Email": "mohan.anupoju@albertsons.com",
+      "Contact": 9515344394
+    },
+    {
+      "accountId":"abs",
+      "domainId":"shoperexperience",
+      "projectId":"engineeringexcellence",
+      "NAME": "Yuvaraj Swamy Kovil",
+      "TIMEZONE": "PST",
+      "ROLE": "Senior Software Engineer",
+      "Nisum / External": "Nisum",
+      "Email": "yswamy@nisum.com",
+      "Client Email": "yuvarajkovil.swamy@albertsons.com",
+      "Contact": 9182382495
+    },
+    {
+      "accountId":"abs",
+      "domainId":"shoperexperience",
+      "projectId":"engineeringexcellence",
+      "NAME": "Ashutosh Chandra",
+      "TIMEZONE": "PST",
+      "ROLE": "Support Analyst",
+      "Nisum / External": "Nisum",
+      "Email": "achandra@nisum.com",
+      "Client Email": "ashutosh.chandra@albertsons.com"
+    },
+    {
+      "accountId":"abs",
+      "domainId":"shoperexperience",
+      "projectId":"engineeringexcellence",
+      "NAME": "Sriramchand Pinisetty",
+      "TIMEZONE": "IST",
+      "ROLE": "Automation QA Engineer",
+      "Nisum / External": "Nisum",
+      "Email": "cpinisetty@nisum.com",
+      "Client Email": "sriramchand.pinisetty@albertsons.com",
+      "Contact": 9030095965
+    }
+  ]
+}

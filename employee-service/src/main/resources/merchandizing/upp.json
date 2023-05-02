@@ -1,0 +1,214 @@
+{
+  "Unified Promotion Platform (UPP)":[
+    {
+      "accountId":"abs",
+      "domainId":"merchandizing",
+      "projectId":"upp",
+      "NAME": "Srividya",
+      "TIMEZONE": "IST",
+      "ROLE": "Scrum Manager",
+      "Nisum / External": "Nisum",
+      "Email": "sgreddy@nisum.com",
+      "Client Email": "srividya.gudareddy@albertsons.com",
+      "Contact": 9966666651
+    },
+    {
+      "accountId":"abs",
+      "domainId":"merchandizing",
+      "projectId":"upp",
+      "NAME": "Narender Lingampally",
+      "TIMEZONE": "IST",
+      "ROLE": "Tech Lead",
+      "Nisum / External": "Nisum",
+      "Email": "nlingampally@nisum.com",
+      "Client Email": "Narender.Lingampally@albertsons.com"
+    },
+    {
+      "accountId":"abs",
+      "domainId":"merchandizing",
+      "projectId":"upp",
+      "NAME": "Rajesh Adilapuram",
+      "TIMEZONE": "IST",
+      "ROLE": "Frontend",
+      "Nisum / External": "Nisum",
+      "Email": "radulapuram@nisum.com",
+      "Client Email": "Rajesh.Adulapuram@albertsons.com"
+    },
+    {
+      "accountId":"abs",
+      "domainId":"merchandizing",
+      "projectId":"upp",
+      "NAME": "Naveen Thota",
+      "TIMEZONE": "IST",
+      "ROLE": "Frontend",
+      "Nisum / External": "Nisum",
+      "Email": "nkthota@nisum.com",
+      "Client Email": "Naveen.Thota@albertsons.com"
+    },
+    {
+      "accountId":"abs",
+      "domainId":"merchandizing",
+      "projectId":"upp",
+      "NAME": "Chiranjeevi Gampala",
+      "TIMEZONE": "IST",
+      "ROLE": "Frontend",
+      "Nisum / External": "Nisum",
+      "Email": "gchiranjeevi@nisum.com",
+      "Client Email": "Gampala.Chiranjeevi@albertsons.com"
+    },
+    {
+      "accountId":"abs",
+      "domainId":"merchandizing",
+      "projectId":"upp",
+      "NAME": "Ravi Kiran Routhu",
+      "TIMEZONE": "IST",
+      "ROLE": "Frontend",
+      "Nisum / External": "Nisum",
+      "Email": "rrouthu@nisum.com",
+      "Client Email": "RaviKiran.Routhu@albertsons.com"
+    },
+    {
+      "accountId":"abs",
+      "domainId":"merchandizing",
+      "projectId":"upp",
+      "NAME": "Ashwini Ashok Patil",
+      "TIMEZONE": "IST",
+      "ROLE": "Backend",
+      "Nisum / External": "Nisum",
+      "Email": "aspatil@nisum.com",
+      "Client Email": "Ashwini.Patil@albertsons.com"
+    },
+    {
+      "accountId":"abs",
+      "domainId":"merchandizing",
+      "projectId":"upp",
+      "NAME": "Sreenivasulu Madamanchi",
+      "TIMEZONE": "IST",
+      "ROLE": "Backend",
+      "Nisum / External": "Nisum",
+      "Email": "smadamanchi@nisum.com",
+      "Client Email": "Sreenivasulu.Madamanchi@albertsons.com"
+    },
+    {
+      "accountId":"abs",
+      "domainId":"merchandizing",
+      "projectId":"upp",
+      "NAME": "Nagarjuna Bollivaram",
+      "TIMEZONE": "IST",
+      "ROLE": "Backend",
+      "Nisum / External": "Nisum",
+      "Email": "nabollivaram@nisum.com",
+      "Client Email": "Nagarjuna.Bollivaram@albertsons.com"
+    },
+    {
+      "accountId":"abs",
+      "domainId":"merchandizing",
+      "projectId":"upp",
+      "NAME": "Sridhar Pothanveni",
+      "TIMEZONE": "IST",
+      "ROLE": "Backend",
+      "Nisum / External": "Nisum",
+      "Email": "spothanaveni@nisum.com",
+      "Client Email": "Sridhar.Pothanaveni@albertsons.com"
+    },
+    {
+      "accountId":"abs",
+      "domainId":"merchandizing",
+      "projectId":"upp",
+      "NAME": "Sahithya Myakala",
+      "TIMEZONE": "IST",
+      "ROLE": "QE",
+      "Nisum / External": "Nisum",
+      "Email": "smyakala@nisum.com",
+      "Client Email": "Sahithya.Myakala@albertsons.com"
+    },
+    {
+      "accountId":"abs",
+      "domainId":"merchandizing",
+      "projectId":"upp",
+      "NAME": "Deepak Mishra",
+      "TIMEZONE": "IST",
+      "ROLE": "QE",
+      "Nisum / External": "Nisum",
+      "Email": "demishra@nisum.com",
+      "Client Email": "Deepak.Mishra@albertsons.com"
+    },
+    {
+      "accountId":"abs",
+      "domainId":"merchandizing",
+      "projectId":"upp",
+      "NAME": "Prasanna Maddi",
+      "TIMEZONE": "IST",
+      "ROLE": "QE",
+      "Nisum / External": "Nisum",
+      "Email": "pmaddi@nisum.com",
+      "Client Email": "Prasanna.Maddi@albertsons.com"
+    },
+    {
+      "accountId":"abs",
+      "domainId":"merchandizing",
+      "projectId":"upp",
+      "NAME": "V V Allada",
+      "TIMEZONE": "PST",
+      "ROLE": "QE Lead",
+      "Nisum / External": "Nisum",
+      "Email": "vallada@nisum.com",
+      "Client Email": "VeeraVenkata.Allada@albertsons.com"
+    },
+    {
+      "accountId":"abs",
+      "domainId":"merchandizing",
+      "projectId":"upp",
+      "NAME": "Grijesh Singh",
+      "TIMEZONE": "PST",
+      "ROLE": "Backend",
+      "Nisum / External": "Nisum",
+      "Email": "gsingh@nisum.com",
+      "Client Email": "Grijesh.Singh@albertsons.com"
+    },
+    {
+      "accountId":"abs",
+      "domainId":"merchandizing",
+      "projectId":"upp",
+      "NAME": "Shiva Shankar Galla",
+      "TIMEZONE": "PST",
+      "ROLE": "Frontend",
+      "Nisum / External": "Nisum",
+      "Email": "sgalla@nisum.com",
+      "Client Email": "Shiva.Galla@albertsons.com"
+    },
+    {
+      "accountId":"abs",
+      "domainId":"merchandizing",
+      "projectId":"upp",
+      "NAME": "Arian Namavar",
+      "TIMEZONE": "PST",
+      "ROLE": "Frontend",
+      "Nisum / External": "Nisum",
+      "Email": "anamavar@nisum.com",
+      "Client Email": "Arian.Namavar@albertsons.com"
+    },
+    {
+      "accountId":"abs",
+      "domainId":"merchandizing",
+      "projectId":"upp",
+      "NAME": "Arun Guduri",
+      "TIMEZONE": "IST",
+      "ROLE": "Frontend",
+      "Nisum / External": "Nisum",
+      "Email": "aguduri@nisum.com",
+      "Client Email": "Arun.Guduri@albertsons.com"
+    },
+    {
+      "accountId":"abs",
+      "domainId":"merchandizing",
+      "projectId":"upp",
+      "NAME": "Prayas Jain",
+      "TIMEZONE": "Offshore - India",
+      "ROLE": "Frontend",
+      "Nisum / External": "Nisum",
+      "Email": "pjain@nisum.com",
+      "Client Email": "prayas.jain@albertsons.com"
+    }
+  ]
+}

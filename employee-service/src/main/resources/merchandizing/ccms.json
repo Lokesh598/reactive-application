@@ -1,0 +1,22 @@
+{
+  "Customer Communications \r\n(CCMS)": [
+    {
+      "NAME": "Praveen Kumar Thathireddy",
+      "TIMEZONE": "IST",
+      "ROLE": "UI",
+      "Nisum / External": "Nisum",
+      "Email": "pthathireddy@nisum.com",
+      "Client Email": "praveen.thathireddy@albertsons.com",
+      "Contact": 918801555138
+    },
+    {
+      "NAME": "Rajesh Katrapati",
+      "TIMEZONE": "IST",
+      "ROLE": "Back End",
+      "Nisum / External": "Nisum",
+      "Email": "rkatrapati@nisum.com",
+      "Client Email": "rajesh.katrapati@albertsons.com",
+      "Contact": 919866128376
+    }
+  ]
+}

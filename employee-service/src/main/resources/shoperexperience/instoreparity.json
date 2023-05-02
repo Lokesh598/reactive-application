@@ -1,0 +1,182 @@
+{
+  "In-Store Parity": [
+    {
+      "accountId":"abs",
+      "domainId":"shoperexperience",
+      "projectId":"instoreprity",
+      "NAME": "Subramanyam Chetty",
+      "TIMEZONE": "IST",
+      "ROLE": "Project Manager",
+      "Nisum / External": "Nisum",
+      "Email": "mchetty@nisum.com",
+      "Client Email": "Subramanyam.Chetty@albertsons.com",
+      "Contact": 9849513953
+    },
+    {
+      "accountId":"abs",
+      "domainId":"shoperexperience",
+      "projectId":"instoreprity",
+      "NAME": "Raju Chinthala",
+      "TIMEZONE": "IST",
+      "ROLE": "Application Developer",
+      "Nisum / External": "Nisum",
+      "Email": "rchinthala@nisum.com",
+      "Client Email": "raju.chinthala@albertsons.com",
+      "Contact": 9505903585
+    },
+    {
+      "accountId":"abs",
+      "domainId":"shoperexperience",
+      "projectId":"instoreprity",
+      "NAME": "Lavanya Ravuri",
+      "TIMEZONE": "IST",
+      "ROLE": "Application Developer",
+      "Nisum / External": "Nisum",
+      "Email": "lravuri@nisum.com",
+      "Client Email": "lavanya.ravuri@albertsons.com",
+      "Contact": 9676389888
+    },
+    {
+      "accountId":"abs",
+      "domainId":"shoperexperience",
+      "projectId":"instoreprity",
+      "NAME": "Ayesha Niazi",
+      "TIMEZONE": "IST",
+      "ROLE": "Application Developer",
+      "Nisum / External": "Nisum",
+      "Email": "aniazi@nisum.com",
+      "Client Email": "ayesha.niazi@albertsons.com",
+      "Contact": 9752533559
+    },
+    {
+      "accountId":"abs",
+      "domainId":"shoperexperience",
+      "projectId":"instoreprity",
+      "NAME": "Saisri Neelam",
+      "TIMEZONE": "IST",
+      "ROLE": "Application Developer",
+      "Nisum / External": "Nisum",
+      "Email": "sneelam@nisum.com",
+      "Client Email": "saisree.neelam@albertsons.com",
+      "Contact": 9121761300
+    },
+    {
+      "accountId":"abs",
+      "domainId":"shoperexperience",
+      "projectId":"instoreprity",
+      "NAME": "Tirumal Gunda",
+      "TIMEZONE": "PST",
+      "ROLE": "Automation QA Engineer",
+      "Nisum / External": "Nisum",
+      "Email": "tgunda@nisum.com",
+      "Client Email": "thirumal.gunda@albertsons.com",
+      "Contact": 9502616896
+    },
+    {
+      "accountId":"abs",
+      "domainId":"shoperexperience",
+      "projectId":"instoreprity",
+      "NAME": "Satish Bodapati",
+      "TIMEZONE": "IST",
+      "ROLE": "Automation QA Engineer",
+      "Nisum / External": "Nisum",
+      "Email": "bsatish@nisum.com",
+      "Client Email": "Satish.Boddapati@albertsons.com",
+      "Contact": 8884796789
+    },
+    {
+      "accountId":"abs",
+      "domainId":"shoperexperience",
+      "projectId":"instoreprity",
+      "NAME": "Vivek Patil",
+      "TIMEZONE": "IST",
+      "ROLE": "Automation QA Engineer",
+      "Nisum / External": "Nisum",
+      "Email": "vipatil@nisum.com",
+      "Client Email": "vivek.patil@albertsons.com",
+      "Contact": 8884406659
+    },
+    {
+      "accountId":"abs",
+      "domainId":"shoperexperience",
+      "projectId":"instoreprity",
+      "NAME": "Nagarajan Velineni",
+      "TIMEZONE": "IST",
+      "ROLE": "Automation QA Engineer",
+      "Nisum / External": "Nisum",
+      "Email": "nvelineni@nisum.com",
+      "Client Email": "nagarajan.velineni@albertsons.com",
+      "Contact": 9087616276
+    },
+    {
+      "accountId":"abs",
+      "domainId":"shoperexperience",
+      "projectId":"instoreprity",
+      "NAME": "Sivaji Gali",
+      "TIMEZONE": "PST",
+      "ROLE": "Application Developer",
+      "Nisum / External": "Nisum",
+      "Email": "sgali@nisum.com",
+      "Client Email": "sivaji.gali@albertsons.com",
+      "Contact": 9642733311
+    },
+    {
+      "accountId":"abs",
+      "domainId":"shoperexperience",
+      "projectId":"instoreprity",
+      "NAME": "Arunava Majumdar",
+      "TIMEZONE": "PST",
+      "ROLE": "Application Developer",
+      "Nisum / External": "Nisum",
+      "Email": "amajumdar@nisum.com",
+      "Client Email": "arunava.majumdar@albertsons.com"
+    },
+    {
+      "accountId":"abs",
+      "domainId":"shoperexperience",
+      "projectId":"instoreprity",
+      "NAME": "Sudheer Uppalapati",
+      "TIMEZONE": "PST",
+      "ROLE": "Automation QA Engineer",
+      "Nisum / External": "Nisum",
+      "Email": "kuppalapati@nisum.com",
+      "Client Email": "sudheer.uppalapati@albertsons.com",
+      "Contact": "001 669 999 8624"
+    },
+    {
+      "accountId":"abs",
+      "domainId":"shoperexperience",
+      "projectId":"instoreprity",
+      "NAME": "Armine Grigoryan",
+      "TIMEZONE": "PST",
+      "ROLE": "Application Developer",
+      "Nisum / External": "Nisum",
+      "Email": "agrigoryan@nisum.com",
+      "Client Email": "armine.grigoryan@albertsons.com"
+    },
+    {
+      "accountId":"abs",
+      "domainId":"shoperexperience",
+      "projectId":"instoreprity",
+      "NAME": "Anil Kumar Repakula",
+      "TIMEZONE": "IST",
+      "ROLE": "Automation QA Engineer",
+      "Nisum / External": "Nisum",
+      "Email": "arepakula@nisum.com",
+      "Client Email": "anilkumar.repakula@albertsons.com",
+      "Contact": 8886540009
+    },
+    {
+      "accountId":"abs",
+      "domainId":"shoperexperience",
+      "projectId":"instoreprity",
+      "NAME": "Dharmapuri Aravind VardhanMonday",
+      "TIMEZONE": "IST",
+      "ROLE": "Trainee Developer",
+      "Nisum / External": "Nisum",
+      "Email": "dvardhan@nisum.com",
+      "Client Email": "aravind.dharmapuri@albertsons.com",
+      "Contact": 9347083234
+    }
+  ]
+}

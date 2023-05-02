@@ -1,0 +1,172 @@
+{
+  "ECOM": [
+    {
+      "Cart & Checkout": [
+        {
+          "NAME": "Surya Satish",
+          "TIMEZONE": "IST",
+          "ROLE": "Application Developer",
+          "Nisum / External": "Nisum",
+          "Email": "ssatish@nisum.com",
+          "Client Email": "surya.satish@albertsons.com"
+        }
+      ]
+    },
+    {
+      "Omni Channel Taxation (OCTX)": [
+        {
+          "NAME": "Leonardo Monroy",
+          "TIMEZONE": "PST",
+          "ROLE": "Team Lead - BE Dev",
+          "Nisum / External": "Nisum",
+          "Email": "lmonroy@nisum.com",
+          "Client Email": "leonardo.monroy@albertsons.com"
+        },
+        {
+          "NAME": "Ravi Kiran Gorthi",
+          "TIMEZONE": "IST",
+          "ROLE": "Team Lead",
+          "Nisum / External": "Nisum",
+          "Email": "rgorthi@nisum.com",
+          "Client Email": "ravi.gorthi@albertsons.com"
+        },
+        {
+          "NAME": "Bhaskar Padala",
+          "TIMEZONE": "IST",
+          "ROLE": "Dev",
+          "Nisum / External": "Nisum",
+          "Email": "bpadala@nisum.com",
+          "Client Email": "bhaskar.padala@albertsons.com"
+        },
+        {
+          "NAME": "TBD",
+          "TIMEZONE": "IST",
+          "ROLE": "Dev",
+          "Nisum / External": "Nisum",
+          "Email": "nkattanguru@nisum.com",
+          "Client Email": "nagaraju.kattanguru@albertsons.com"
+        },
+        {
+          "NAME": "Srinivas Allambai",
+          "TIMEZONE": "PST",
+          "ROLE": "QA",
+          "Nisum / External": "Nisum",
+          "Email": "sallambai@nisum.com",
+          "Client Email": "srinivas.allambai@albertsons.com"
+        },
+        {
+          "NAME": "Raja Ismail",
+          "TIMEZONE": "PST",
+          "ROLE": "QA",
+          "Nisum / External": "External",
+          "Client Email": "raja.ismail@albertsons.com"
+        },
+        {
+          "NAME": "Rajni Rani",
+          "TIMEZONE": "IST",
+          "ROLE": "Dev",
+          "Nisum / External": "External",
+          "Client Email": "rajni.rani@albertsons.com"
+        }
+      ]
+    },
+    {
+      "Online Shopping Payment Gateway (OSPG)": [
+        {
+          "NAME": "Karthik Sankata",
+          "TIMEZONE": "PST",
+          "ROLE": "Team Lead/ Sr. Dev",
+          "Nisum / External": "Nisum",
+          "Email": "skarthik@nisum.com",
+          "Client Email": "ksank03@safeway.com",
+          "Contact": "001 925 663 5666"
+        },
+        {
+          "NAME": "Monika Gupta",
+          "TIMEZONE": "PST",
+          "ROLE": "QA Lead",
+          "Nisum / External": "Nisum",
+          "Email": "mgupta@nisum.com",
+          "Client Email": "mgupt11@safeway.com",
+          "Contact": "001 510 505 4185"
+        },
+        {
+          "NAME": "Sivalingam",
+          "TIMEZONE": "IST",
+          "ROLE": "Dev",
+          "Nisum / External": "Nisum",
+          "Email": "schalamala@nisum.com",
+          "Client Email": "schal14@safeway.com",
+          "Contact": 9970095894
+        },
+        {
+          "NAME": "Chaitra Natarajan",
+          "TIMEZONE": "IST",
+          "ROLE": "QA",
+          "Nisum / External": "Nisum",
+          "Email": "nchaithra@nisum.com",
+          "Client Email": "cnata08@safeway.com",
+          "Contact": 9902971964
+        },
+        {
+          "NAME": "Manish Kumar",
+          "TIMEZONE": "IST",
+          "ROLE": "QA",
+          "Nisum / External": "Nisum",
+          "Email": "mseethala@nisum.com",
+          "Client Email": "mseet01@safeway.com",
+          "Contact": 9182853860
+        }
+      ]
+    },
+    {
+      "Store Mobility": [
+        {
+          "NAME": "Mounika Namepally",
+          "TIMEZONE": "Nisum India",
+          "ROLE": "Backend Dev",
+          "Nisum / External": "Nisum",
+          "Email": "mnamepally@nisum.com",
+          "Client Email": "mounika.namepally@albertsons.com",
+          "Contact": 9000133926
+        },
+        {
+          "NAME": "Narendra Ponduri",
+          "TIMEZONE": "Nisum India",
+          "ROLE": "Backend Dev",
+          "Nisum / External": "Nisum",
+          "Email": "naponduri@nisum.com",
+          "Client Email": "narendra.ponduri@albertsons.com",
+          "Contact": 7702839436
+        },
+        {
+          "NAME": "Sumalatha Popuri",
+          "TIMEZONE": "Nisum India",
+          "ROLE": "QE",
+          "Nisum / External": "Nisum",
+          "Email": "spopuri@nisum.com",
+          "Client Email": "sumalatha.popuri@albertsons.com",
+          "Contact": 7386757300
+        },
+        {
+          "NAME": "Jayendra Achen",
+          "TIMEZONE": "Nisum USA",
+          "ROLE": "Backend Dev",
+          "Nisum / External": "Nisum",
+          "Email": "jachen@nisum.com",
+          "Client Email": "jayendra.achen@albertsons.com",
+          "Contact": "001 336 391 8222"
+        },
+        {
+          "NAME": "Babu Perumalla",
+          "TIMEZONE": "Nisum USA",
+          "ROLE": "Backend Dev",
+          "Nisum / External": "Nisum",
+          "Email": "sperumalla@nisum.com",
+          "Client Email": "babu.perumalla@albertsons.com",
+          "Contact": "001 714 579 7979"
+        }
+      ]
+    }
+  ]
+}

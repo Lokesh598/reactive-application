@@ -1,0 +1,96 @@
+{
+  "Gamification": [
+    {
+      "NAME": "Anup Kumar Beerkur",
+      "TIMEZONE": "India -IST",
+      "ROLE": "Team Lead / Application Developer",
+      "Nisum / External": "Nisum",
+      "Email": "akbeerkur@nisum.com",
+      "Client Email": "anup.beerkur@albertsons.com",
+      "Contact": 9676891197
+    },
+    {
+      "NAME": "Shyam Kiran",
+      "TIMEZONE": "India -IST",
+      "ROLE": "Application Developer",
+      "Nisum / External": "Nisum",
+      "Email": "skiran@nisum.com",
+      "Client Email": "shyamkiran.erukala@albertsons.com",
+      "Contact": 8096878289
+    },
+    {
+      "NAME": "Saritha Chilakalapudi",
+      "TIMEZONE": "India -IST",
+      "ROLE": "Senior QA Engineer",
+      "Nisum / External": "Nisum",
+      "Email": "schilakalapudi@nisum.com",
+      "Client Email": "saritha.chilakalapudi@albertsons.com",
+      "Contact": 9963683036
+    },
+    {
+      "NAME": "Srinivasulu Dasti",
+      "TIMEZONE": "India -IST",
+      "ROLE": "Senior QA Engineer",
+      "Nisum / External": "Nisum",
+      "Email": "sdatsi@nisum.com",
+      "Client Email": "srinivas.dasti@albertsons.com",
+      "Contact": 7674077228
+    },
+    {
+      "NAME": "Satyabrata Choudhury",
+      "TIMEZONE": "US - PST",
+      "ROLE": "Application Developer",
+      "Nisum / External": "Nisum",
+      "Email": "schoudhury@nisum.com",
+      "Client Email": "satyabrata.choudhury@albertsons.com",
+      "Contact": 9777507656
+    },
+    {
+      "NAME": "Jackson Pham",
+      "TIMEZONE": "US - PST",
+      "ROLE": "Front End Resource",
+      "Nisum / External": "Nisum",
+      "Email": "japham@nisum.com",
+      "Client Email": "jackson.pham@albertsons.com"
+    },
+    {
+      "NAME": "Venkatesh Marugalla",
+      "TIMEZONE": "India -IST",
+      "ROLE": "Front End Resource",
+      "Nisum / External": "Nisum",
+      "Email": "vemarugalla@nisum.com",
+      "Client Email": "venkatesh.marugalla@albertsons.com",
+      "Contact": 9030389822
+    },
+    {
+      "NAME": "Devasani Shivani",
+      "TIMEZONE": "India -IST",
+      "ROLE": "Front End Resource",
+      "Nisum / External": "Nisum",
+      "Email": "sdevasani@nisum.com",
+      "Client Email": "shivani.devasani@albertsons.com"
+    },
+    {
+      "NAME": "Durga Kalyani Satthi",
+      "TIMEZONE": "India -IST",
+      "ROLE": "Front End Resource",
+      "Nisum / External": "Nisum",
+      "Email": "dsatthi@nisum.com",
+      "Client Email": "durgakalyani.satthi@albertsons.com"
+    },
+    {
+      "NAME": "Gouthami Kollipara",
+      "TIMEZONE": "US - PST",
+      "ROLE": "QE",
+      "Nisum / External": "Nisum",
+      "Email": "skollipara@nisum.com"
+    },
+    {
+      "NAME": "Keerthi Kanakaveedu",
+      "TIMEZONE": "US- PST",
+      "ROLE": "Front End Resource",
+      "Nisum / External": "Nisum",
+      "Email": "kkanakaveedu@nisum.com"
+    }
+  ]
+}

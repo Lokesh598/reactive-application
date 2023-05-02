@@ -1,0 +1,58 @@
+{
+  "Omni Channel Taxation (OCTX)": [
+    {
+      "NAME": "Leonardo Monroy",
+      "TIMEZONE": "PST",
+      "ROLE": "Team Lead - BE Dev",
+      "Nisum / External": "Nisum",
+      "Email": "lmonroy@nisum.com",
+      "Client Email": "leonardo.monroy@albertsons.com"
+    },
+    {
+      "NAME": "Ravi Kiran Gorthi",
+      "TIMEZONE": "IST",
+      "ROLE": "Team Lead",
+      "Nisum / External": "Nisum",
+      "Email": "rgorthi@nisum.com",
+      "Client Email": "ravi.gorthi@albertsons.com"
+    },
+    {
+      "NAME": "Bhaskar Padala",
+      "TIMEZONE": "IST",
+      "ROLE": "Dev",
+      "Nisum / External": "Nisum",
+      "Email": "bpadala@nisum.com",
+      "Client Email": "bhaskar.padala@albertsons.com"
+    },
+    {
+      "NAME": "TBD",
+      "TIMEZONE": "IST",
+      "ROLE": "Dev",
+      "Nisum / External": "Nisum",
+      "Email": "nkattanguru@nisum.com",
+      "Client Email": "nagaraju.kattanguru@albertsons.com"
+    },
+    {
+      "NAME": "Srinivas Allambai",
+      "TIMEZONE": "PST",
+      "ROLE": "QA",
+      "Nisum / External": "Nisum",
+      "Email": "sallambai@nisum.com",
+      "Client Email": "srinivas.allambai@albertsons.com"
+    },
+    {
+      "NAME": "Raja Ismail",
+      "TIMEZONE": "PST",
+      "ROLE": "QA",
+      "Nisum / External": "External",
+      "Client Email": "raja.ismail@albertsons.com"
+    },
+    {
+      "NAME": "Rajni Rani",
+      "TIMEZONE": "IST",
+      "ROLE": "Dev",
+      "Nisum / External": "External",
+      "Client Email": "rajni.rani@albertsons.com"
+    }
+  ]
+}

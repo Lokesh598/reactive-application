@@ -1,0 +1,103 @@
+{
+  "Stores": [
+    {
+      "Self Help": [
+        {
+          "NAME": "V V Lakshmi Amara",
+          "TIMEZONE": "IST",
+          "ROLE": "Application Developer",
+          "Nisum / External": "Nisum",
+          "Email": "vamara@nisum.com",
+          "Client Email": "VenkataVijayaLakshmi.Amara@albertsons.com",
+          "Contact": 7306959049
+        },
+        {
+          "NAME": "KUMAR PANDA, JYOTIB",
+          "TIMEZONE": "IST",
+          "ROLE": "Senior Quality Engineer",
+          "Nisum / External": "Nisum",
+          "Email": "jpanda@nisum.com"
+        },
+        {
+          "NAME": "NARAYANAM, GOPINADH",
+          "TIMEZONE": "US",
+          "ROLE": "UI Developer",
+          "Email": "gnarayanam@nisum.com",
+          "Contact": "940-290-1145"
+        }
+      ]
+    },
+    {
+      "Virtual Point of Sale (VPOS)": [
+        {
+          "NAME": "Javeed Hasan",
+          "TIMEZONE": "IST",
+          "ROLE": "Application Developer",
+          "Nisum / External": "Nisum",
+          "Email": "mhassan@nisum.com",
+          "Client Email": "jhasa02@safeway.com",
+          "Contact": 8919521783
+        },
+        {
+          "NAME": "Divvela Ravi Kumar",
+          "TIMEZONE": "IST",
+          "ROLE": "Application Developer",
+          "Nisum / External": "Nisum",
+          "Email": "dikumar@nisum.com",
+          "Client Email": "rdivv00@safeway.com",
+          "Contact": 9885416150
+        },
+        {
+          "NAME": "Jince Mon",
+          "TIMEZONE": "IST",
+          "ROLE": "Application Developer",
+          "Nisum / External": "Nisum",
+          "Email": "jmon@nisum.com"
+        },
+        {
+          "NAME": "Challa Dheeraj",
+          "TIMEZONE": "IST",
+          "ROLE": "Application Developer",
+          "Nisum / External": "Nisum",
+          "Email": "cdheeraj@nisum.com",
+          "Client Email": "dchal22@safeway.com",
+          "Contact": 7730037794
+        },
+        {
+          "NAME": "KAMIREDDY, JAGATHCHANDER",
+          "TIMEZONE": "IST",
+          "ROLE": "QA Lead",
+          "Nisum / External": "Nisum",
+          "Email": "jkamireddy@nisum.com",
+          "Client Email": "jagatchander.kamireddy@albertsons.com"
+        },
+        {
+          "NAME": "NARESH, CHERUKURI",
+          "TIMEZONE": "IST",
+          "ROLE": "Principal Quality Engineer",
+          "Nisum / External": "Nisum",
+          "Email": "nacherukuri@nisum.com",
+          "Client Email": "naresh.cherukuri@albertsons.com"
+        },
+        {
+          "NAME": "SANKERASETTY, SRINIVAS",
+          "TIMEZONE": "US",
+          "ROLE": "SENIOR SOFTWARE ENGINEER II",
+          "Nisum / External": "Nisum",
+          "Email": "ssankerasetty@nisum.com",
+          "Client Email": "srinivas.sankerasetty@albertsons.com",
+          "Contact": "408-826-5521"
+        },
+        {
+          "NAME": "CHANDALURI, SAI DINESH",
+          "TIMEZONE": "US",
+          "ROLE": "Senior Software Engineer I",
+          "Nisum / External": "Nisum",
+          "Email": "schandaluri@nisum.com",
+          "Client Email": "dinesh.chandaluri@albertsons.com",
+          "Contact": 9254047868
+        }
+      ]
+    }
+  ]
+}

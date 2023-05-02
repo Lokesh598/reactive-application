@@ -1,0 +1,88 @@
+{
+  "Inventory Accuracy": [
+    {
+      "accountId":"abs",
+      "domainId":"shoperexperience",
+      "projectId":"inventoryaccuracy",
+      "NAME": "Subramanyam Chetty",
+      "TIMEZONE": "IST",
+      "ROLE": "Project Manager",
+      "Nisum / External": "Nisum",
+      "Email": "mchetty@nisum.com",
+      "Client Email": "Subramanyam.Chetty@albertsons.com",
+      "Contact": 9849513953
+    },
+    {
+      "accountId":"abs",
+      "domainId":"shoperexperience",
+      "projectId":"inventoryaccuracy",
+      "NAME": "Chiranjeevi Chitte",
+      "TIMEZONE": "IST",
+      "ROLE": "Application Developer",
+      "Nisum / External": "Nisum",
+      "Email": "cchitte@nisum.com",
+      "Client Email": "chiranjeevi.chitte@albertsons.com",
+      "Contact": 9550872286
+    },
+    {
+      "accountId":"abs",
+      "domainId":"shoperexperience",
+      "projectId":"inventoryaccuracy",
+      "NAME": "Balakrishnaiah Sunku",
+      "TIMEZONE": "IST",
+      "ROLE": "Technical Lead",
+      "Nisum / External": "Nisum",
+      "Email": "bsunku@nisum.com",
+      "Client Email": "balakrishnaiah.sunku@albertsons.com",
+      "Contact": 9989315635
+    },
+    {
+      "accountId":"abs",
+      "domainId":"shoperexperience",
+      "projectId":"inventoryaccuracy",
+      "NAME": "Sobhan Babu Inturi",
+      "TIMEZONE": "PST",
+      "ROLE": "Automation QA Engineer",
+      "Nisum / External": "Nisum",
+      "Email": "sinturi@nisum.com",
+      "Client Email": "sobhanbabu.inturi@albertsons.com",
+      "Contact": "001 341 345 2566"
+    },
+    {
+      "accountId":"abs",
+      "domainId":"shoperexperience",
+      "projectId":"inventoryaccuracy",
+      "NAME": "hymavathi Maradani",
+      "TIMEZONE": "PST",
+      "ROLE": "Automation QA Engineer",
+      "Nisum / External": "Nisum",
+      "Email": "hmaradani@nisum.com",
+      "Client Email": "hymavathi.maradani@albertsons.com",
+      "Contact": "001 510 513 2587"
+    },
+    {
+      "accountId":"abs",
+      "domainId":"shoperexperience",
+      "projectId":"inventoryaccuracy",
+      "NAME": "Priya Lokhande",
+      "TIMEZONE": "PST",
+      "ROLE": "Associate Software Engineer",
+      "Nisum / External": "Nisum",
+      "Email": "plokhande@nisum.com",
+      "Client Email": "priya.lokhande@albertsons.com",
+      "Contact": "001 973 452 8715"
+    },
+    {
+      "accountId":"abs",
+      "domainId":"shoperexperience",
+      "projectId":"inventoryaccuracy",
+      "NAME": "Hassan Eqbal",
+      "TIMEZONE": "IST",
+      "ROLE": "Automation QA Engineer",
+      "Nisum / External": "Nisum",
+      "Email": "haeqbal@nisum.com",
+      "Client Email": "hassan.eqbal@albertsons.com",
+      "Contact": 8886548111
+    }
+  ]
+}

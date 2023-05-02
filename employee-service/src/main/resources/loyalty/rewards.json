@@ -1,0 +1,145 @@
+{
+  "Rewards": [
+    {
+      "NAME": "Yugandhar Devarapalli",
+      "TIMEZONE": "PST",
+      "ROLE": "SOFTWARE ENGINEER",
+      "Nisum / External": "Nisum",
+      "Email": "ydevarapalli@nisum.com",
+      "Client Email": "Yugandhar.Devarapalli@albertsons.com",
+      "Contact": 9492123484
+    },
+    {
+      "NAME": "Praveen Kumar Bhaddipudi (Contractor)",
+      "TIMEZONE": "CST",
+      "ROLE": "Technical Architect",
+      "Nisum / External": "External",
+      "Email": "pbhaddipudi@nisum.com",
+      "Client Email": "PraveenKumar.Bhaddipudi@albertsons.com",
+      "Contact": "773-936-9840"
+    },
+    {
+      "NAME": "Adnan Ahmed",
+      "TIMEZONE": "PST",
+      "ROLE": "SOFTWARE ENGINEER I",
+      "Nisum / External": "Nisum",
+      "Email": "adnahmed@nisum.com",
+      "Client Email": "adnan.ahemd@albertsons.com",
+      "Contact": "201-616-6637"
+    },
+    {
+      "NAME": "Anusha Raavi",
+      "TIMEZONE": "IST",
+      "ROLE": "SENIOR QA ENGINEER",
+      "Nisum / External": "Nisum",
+      "Email": "araavi@nisum.com",
+      "Client Email": "anusha.raavi@albertsons.com",
+      "Contact": 8096065425
+    },
+    {
+      "NAME": "Chandra Sekhar Gapti",
+      "TIMEZONE": "IST",
+      "ROLE": "SENIOR SOFTWARE ENGINEER",
+      "Nisum / External": "Nisum",
+      "Email": "cgapti@nisum.com",
+      "Client Email": "ChandraSekhar.Gapti@albertsons.com",
+      "Contact": 9533536262
+    },
+    {
+      "NAME": "Chandramouli Medarametla",
+      "TIMEZONE": "IST",
+      "ROLE": "DATA ENGINEER",
+      "Nisum / External": "Nisum",
+      "Email": "cmedarametla@nisum.com",
+      "Client Email": "Chandramouli.Medarametla@albertsons.com",
+      "Contact": 9959691020
+    },
+    {
+      "NAME": "Durga Malleswara Rao Uppala",
+      "TIMEZONE": "IST",
+      "ROLE": "SENIOR SOFTWARE ENGINEER",
+      "Nisum / External": "Nisum",
+      "Email": "duppala@nisum.com",
+      "Client Email": "DurgaMalleswaraRao.Uppala@albertsons.com",
+      "Contact": 9003431398
+    },
+    {
+      "NAME": "Madhav Chintha",
+      "TIMEZONE": "IST",
+      "ROLE": "SENIOR SOFTWARE ENGINEER",
+      "Nisum / External": "Nisum",
+      "Email": "mchintha@nisum.com",
+      "Client Email": "Madhav.Chintha@albertsons.com",
+      "Contact": 8074689114
+    },
+    {
+      "NAME": "Rajesham Suddala",
+      "TIMEZONE": "IST",
+      "ROLE": "PRINCIPAL SOFTWARE ENGR -",
+      "Nisum / External": "Nisum",
+      "Email": "rsuddala@nisum.com",
+      "Client Email": "Rajesham.Suddala@albertsons.com",
+      "Contact": 9908172966
+    },
+    {
+      "NAME": "Nageswara Rao Movva",
+      "TIMEZONE": "IST",
+      "ROLE": "PRINCIPAL SOFTWARE ENGR -",
+      "Nisum / External": "Nisum",
+      "Email": "namovva@nisum.com",
+      "Client Email": "Nageswara.Movva@albertsons.com",
+      "Contact": 9908127071
+    },
+    {
+      "NAME": "Mohmmed Abdul Shukoor",
+      "TIMEZONE": "IST",
+      "ROLE": "SENIOR QA ENGINEER",
+      "Nisum / External": "Nisum",
+      "Email": "pbhaddipudi@nisum.com",
+      "Client Email": "MohmmedAbdul.Shukoor@albertsons.com",
+      "Contact": 9959068317
+    },
+    {
+      "NAME": "Chakrapani Gajam",
+      "TIMEZONE": "IST",
+      "ROLE": "DATA ENGINEER",
+      "Nisum / External": "Nisum",
+      "Email": "cgajam@nisum.com",
+      "Client Email": "chakrapani.gajam@albertsons.com",
+      "Contact": 9959701793
+    },
+    {
+      "NAME": "Mateenbaba Mohammed ",
+      "TIMEZONE": "IST",
+      "ROLE": "QE",
+      "Nisum / External": "Nisum",
+      "Email": "mbaba@nisum.com",
+      "Client Email": "mmoh103@safeway.com",
+      "Contact": 9985228323
+    },
+    {
+      "NAME": "Srujana Thumoju ",
+      "TIMEZONE": "IST",
+      "ROLE": "QE",
+      "Nisum / External": "Nisum",
+      "Email": "sthumoju@nisum.com",
+      "Client Email": "sthum07@safeway.com",
+      "Contact": 7702531465
+    },
+    {
+      "NAME": "Yang Lee",
+      "TIMEZONE": "US - CST",
+      "ROLE": "Frontend Engineer",
+      "Nisum / External": "Nisum"
+    },
+    {
+      "NAME": "Ramappa Banja",
+      "TIMEZONE": "US -  EST",
+      "ROLE": "BE Engineer",
+      "Nisum / External": "Nisum",
+      "Email": "rbanja@nisum.com",
+      "Client Email": "RBANJ02@safeway.com",
+      "Contact": 9959400496
+    }
+  ]
+}

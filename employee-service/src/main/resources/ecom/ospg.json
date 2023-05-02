@@ -1,0 +1,49 @@
+{
+  "Online Shopping Payment Gateway (OSPG)": [
+    {
+      "NAME": "Karthik Sankata",
+      "TIMEZONE": "PST",
+      "ROLE": "Team Lead/ Sr. Dev",
+      "Nisum / External": "Nisum",
+      "Email": "skarthik@nisum.com",
+      "Client Email": "ksank03@safeway.com",
+      "Contact": "001 925 663 5666"
+    },
+    {
+      "NAME": "Monika Gupta",
+      "TIMEZONE": "PST",
+      "ROLE": "QA Lead",
+      "Nisum / External": "Nisum",
+      "Email": "mgupta@nisum.com",
+      "Client Email": "mgupt11@safeway.com",
+      "Contact": "001 510 505 4185"
+    },
+    {
+      "NAME": "Sivalingam",
+      "TIMEZONE": "IST",
+      "ROLE": "Dev",
+      "Nisum / External": "Nisum",
+      "Email": "schalamala@nisum.com",
+      "Client Email": "schal14@safeway.com",
+      "Contact": 9970095894
+    },
+    {
+      "NAME": "Chaitra Natarajan",
+      "TIMEZONE": "IST",
+      "ROLE": "QA",
+      "Nisum / External": "Nisum",
+      "Email": "nchaithra@nisum.com",
+      "Client Email": "cnata08@safeway.com",
+      "Contact": 9902971964
+    },
+    {
+      "NAME": "Manish Kumar",
+      "TIMEZONE": "IST",
+      "ROLE": "QA",
+      "Nisum / External": "Nisum",
+      "Email": "mseethala@nisum.com",
+      "Client Email": "mseet01@safeway.com",
+      "Contact": 9182853860
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "Catalog Marketplace": [
+    {
+      "accountId":"abs",
+      "domainId":"shoperexperience",
+      "projectId":"catalogmarketplace",
+      "NAME": "Subramanyam Chetty",
+      "TIMEZONE": "IST",
+      "ROLE": "Project Manager",
+      "Nisum / External": "Nisum",
+      "Email": "mchetty@nisum.com",
+      "Client Email": "Subramanyam.Chetty@albertsons.com",
+      "Contact": 9849513953
+    },
+    {
+      "accountId":"abs",
+      "domainId":"shoperexperience",
+      "projectId":"catalogmarketplace",
+      "NAME": "Raheemullah Khan",
+      "TIMEZONE": "IST",
+      "ROLE": "Application Developer",
+      "Nisum / External": "Nisum",
+      "Email": "rhawaldar@nisum.com",
+      "Client Email": "raheemulla.khan@albertsons.com",
+      "Contact": 9000003314
+    },
+    {
+      "accountId":"abs",
+      "domainId":"shoperexperience",
+      "projectId":"catalogrichness",
+      "NAME": "Deepak Durga Venkata Phani Nallapati",
+      "TIMEZONE": "IST",
+      "ROLE": "Automation QA Engineer",
+      "Nisum / External": "Nisum",
+      "Email": "dnallapati@nisum.com",
+      "Client Email": "deepak.nallapati@albertsons.com",
+      "Contact": 9440193231
+    }
+  ]
+}

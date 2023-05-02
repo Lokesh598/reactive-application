@@ -1,0 +1,33 @@
+eureka:
+  client:
+    register-with-eureka: true
+    fetch-registry: true
+    serviceUrl:
+      defaultZone: http://localhost:8171/eureka  #eureka endpoint
+
+    healthcheck:
+      enabled: true
+
+  instance:
+    leaseRenewalIntervalInSeconds: 1
+    leaseExpirationDurationInSeconds: 2
+    hostname: localhost
+
+spring:
+  application:
+    name: employee-service
+  thymeleaf:
+    cache: false
+  security:
+    oauth2:
+      client:
+        registration:
+          okta:
+            client-id: 0oa9bmmwo5edvJEZ05d7
+            client-secret: qiqMJ8EOfkKXAH4o7Sd03Iw-7lee6jLKjqAM2U3j
+        provider:
+          okta:
+            authorization-uri: https://dev-81334184.okta.com/oauth2/default/v1/authorize
+            token-uri: https://dev-81334184.okta.com/oauth2/default/v1/token
+            user-info-uri: https://dev-81334184.okta.com/oauth2/default/v1/userinfo
+            jwk-set-uri: https://dev-81334184.okta.com/oauth2/default/v1/keys

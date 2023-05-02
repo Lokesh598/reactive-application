@@ -1,0 +1,130 @@
+{
+  "Schedule and Save (S&S)": [
+    {
+      "accountId":"abs",
+      "domainId":"shoperexperience",
+      "projectId":"sns",
+      "NAME": "Amit Sinha",
+      "TIMEZONE": "IST",
+      "ROLE": "Offshore Scrum Master",
+      "Nisum / External": "Nisum",
+      "Email": "asinha@nisum.com"
+    },
+    {
+      "accountId":"abs",
+      "domainId":"shoperexperience",
+      "projectId":"sns",
+      "NAME": "Uma Vani Ravuri",
+      "TIMEZONE": "IST",
+      "ROLE": "Backend",
+      "Nisum / External": "Nisum",
+      "Email": "umravuri@nisum.com"
+    },
+    {
+      "accountId":"abs",
+      "domainId":"shoperexperience",
+      "projectId":"sns",
+      "NAME": "L Sanjeev Kumar",
+      "TIMEZONE": "IST",
+      "ROLE": "QA",
+      "Nisum / External": "Nisum"
+    },
+    {
+      "accountId":"abs",
+      "domainId":"shoperexperience",
+      "projectId":"sns",
+      "NAME": "G Shruthi",
+      "TIMEZONE": "IST",
+      "ROLE": "QA",
+      "Nisum / External": "Nisum"
+    },
+    {
+      "accountId":"abs",
+      "domainId":"shoperexperience",
+      "projectId":"sns",
+      "NAME": "Rakesh Anna",
+      "TIMEZONE": "IST",
+      "ROLE": "Backend",
+      "Nisum / External": "Nisum"
+    },
+    {
+      "accountId":"abs",
+      "domainId":"shoperexperience",
+      "projectId":"sns",
+      "NAME": "Bhanuchander Pathuri",
+      "TIMEZONE": "IST",
+      "ROLE": "Backend",
+      "Nisum / External": "Nisum"
+    },
+    {
+      "accountId":"abs",
+      "domainId":"shoperexperience",
+      "projectId":"sns",
+      "NAME": "Sion Swapan Chowdhury",
+      "TIMEZONE": "IST",
+      "ROLE": "Backend",
+      "Nisum / External": "Nisum"
+    },
+    {
+      "accountId":"abs",
+      "domainId":"shoperexperience",
+      "projectId":"sns",
+      "NAME": "Thurpunati Sravani",
+      "TIMEZONE": "IST",
+      "ROLE": "Backend",
+      "Nisum / External": "Nisum"
+    },
+    {
+      "accountId":"abs",
+      "domainId":"shoperexperience",
+      "projectId":"sns",
+      "NAME": "Ravichandravarma Kadiyala",
+      "TIMEZONE": "IST",
+      "ROLE": "Backend",
+      "Nisum / External": "Nisum"
+    },
+    {
+      "accountId":"abs",
+      "domainId":"shoperexperience",
+      "projectId":"sns",
+      "NAME": "Janardhan Madugula",
+      "TIMEZONE": "IST",
+      "ROLE": "Backend",
+      "Nisum / External": "Nisum"
+    },
+    {
+      "accountId":"abs",
+      "domainId":"shoperexperience",
+      "projectId":"sns",
+      "NAME": "Perwaiz Ali",
+      "TIMEZONE": "IST",
+      "ROLE": "Backend",
+      "Nisum / External": "Nisum"
+    },
+    {
+      "accountId":"abs",
+      "domainId":"shoperexperience",
+      "projectId":"sns",
+      "NAME": "Rahul Sharma",
+      "TIMEZONE": "IST",
+      "ROLE": "QA",
+      "Nisum / External": "Nisum"
+    },
+    {
+      "accountId":"abs",
+      "domainId":"shoperexperience",
+      "projectId":"sns",
+      "NAME": "Ankit Saini",
+      "TIMEZONE": "IST",
+      "ROLE": "Backend",
+      "Nisum / External": "Nisum"
+    },
+    {
+      "accountId":"abs",
+      "domainId":"shoperexperience",
+      "projectId":"sns",
+      "NAME": "Thushar Ranjendra Khokale",
+      "Nisum / External": "Nisum"
+    }
+  ]
+}

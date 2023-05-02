@@ -1,0 +1,135 @@
+{
+  "Catalog Richness": [
+    {
+      "accountId":"abs",
+      "domainId":"shoperexperience",
+      "projectId":"catalogrichness",
+      "NAME": "Subramanyam Chetty",
+      "TIMEZONE": "IST",
+      "ROLE": "Project Manager",
+      "Nisum / External": "Nisum",
+      "Email": "mchetty@nisum.com",
+      "Client Email": "Subramanyam.Chetty@albertsons.com",
+      "Contact": 9849513953
+    },
+    {
+      "accountId":"abs",
+      "domainId":"shoperexperience",
+      "projectId":"catalogrichness",
+      "NAME": "Sravan Kumar K",
+      "TIMEZONE": "IST",
+      "ROLE": "Technical Lead",
+      "Nisum / External": "Nisum",
+      "Email": "skomuravelly@nisum.com",
+      "Client Email": "sravankumar.komuravelly@albertsons.com",
+      "Contact": 7702873865
+    },
+    {
+      "accountId":"abs",
+      "domainId":"shoperexperience",
+      "projectId":"catalogrichness",
+      "NAME": "Sairam Vadlakonda",
+      "TIMEZONE": "IST",
+      "ROLE": "Application Developer",
+      "Nisum / External": "Nisum",
+      "Email": "svadlakonda@nisum.com",
+      "Client Email": "sairam.vadlakonda@albertsons.com",
+      "Contact": 9652334095
+    },
+    {
+      "accountId":"abs",
+      "domainId":"shoperexperience",
+      "projectId":"catalogrichness",
+      "NAME": "Prasanna Dumpala",
+      "TIMEZONE": "IST",
+      "ROLE": "Application Developer",
+      "Nisum / External": "Nisum",
+      "Email": "pdumpala@nisum.com",
+      "Client Email": "prasanna.dumpala@albertsons.com",
+      "Contact": 9493193880
+    },
+    {
+      "accountId":"abs",
+      "domainId":"shoperexperience",
+      "projectId":"catalogrichness",
+      "NAME": "Sravani Kondra",
+      "TIMEZONE": "IST",
+      "ROLE": "Application Developer",
+      "Nisum / External": "Nisum",
+      "Email": "svadlakonda@nisum.com",
+      "Client Email": "sairam.vadlakonda@albertsons.com",
+      "Contact": 9652334095
+    },
+    {
+      "accountId":"abs",
+      "domainId":"shoperexperience",
+      "projectId":"catalogrichness",
+      "NAME": "Ajay Kumar Rai",
+      "TIMEZONE": "IST",
+      "ROLE": "Application Developer",
+      "Nisum / External": "Nisum",
+      "Email": "arayi@nisum.com",
+      "Client Email": "ajaykumar.rayi@albertsons.com",
+      "Contact": 7306660890
+    },
+    {
+      "accountId":"abs",
+      "domainId":"shoperexperience",
+      "projectId":"catalogrichness",
+      "NAME": "Pavani Mathi",
+      "TIMEZONE": "IST",
+      "ROLE": "Application Developer",
+      "Nisum / External": "Nisum",
+      "Email": "pamathi@nisum.com",
+      "Client Email": "pavani.mathi@albertsons.com",
+      "Contact": 7032536406
+    },
+    {
+      "accountId":"abs",
+      "domainId":"shoperexperience",
+      "projectId":"catalogrichness",
+      "NAME": "Nishant Vilas Pawar",
+      "TIMEZONE": "IST",
+      "ROLE": "Automation QA Engineer",
+      "Nisum / External": "Nisum",
+      "Email": "nipawar@nisum.com",
+      "Client Email": "nishantvilas.pawar@albertsons.com",
+      "Contact": 9654206672
+    },
+    {
+      "accountId":"abs",
+      "domainId":"shoperexperience",
+      "projectId":"catalogrichness",
+      "NAME": "Venu Gande",
+      "TIMEZONE": "IST",
+      "ROLE": "Application Developer",
+      "Nisum / External": "Nisum",
+      "Email": "vgande@nisum.com",
+      "Client Email": "venu.gande@albertsons.com",
+      "Contact": 7702183934
+    },
+    {
+      "accountId":"abs",
+      "domainId":"shoperexperience",
+      "projectId":"catalogrichness",
+      "NAME": "Rajitha Pachava",
+      "TIMEZONE": "PST",
+      "ROLE": "Automation QA Engineer",
+      "Nisum / External": "Nisum",
+      "Email": "rpachava@nisum.com",
+      "Client Email": "rajitha.pachava@albertsons.com"
+    },
+    {
+      "accountId":"abs",
+      "domainId":"shoperexperience",
+      "projectId":"catalogrichness",
+      "NAME": "Ramaraju Vyasaraju",
+      "TIMEZONE": "IST",
+      "ROLE": "Automation QA Engineer",
+      "Nisum / External": "Nisum",
+      "Email": "vramaraju@nisum.com",
+      "Client Email": "vysyaraju.ramaraju@albertsons.com",
+      "Contact": 8248358655
+    }
+  ]
+}

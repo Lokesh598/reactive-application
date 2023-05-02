@@ -1,0 +1,211 @@
+{
+  "Unified Customer Account (UCA)": [
+    {
+      "accountId":"abs",
+      "domainId":"shoperexperience",
+      "projectId":"uca",
+      "NAME": "Raju Tanneeru",
+      "TIMEZONE": "US",
+      "ROLE": "Backend",
+      "Nisum / External": "Nisum",
+      "Email": "rtanneeru@nisum.com",
+      "Client Email": "raju.tanneeru@albertsons.com",
+      "Contact": 917995632363
+    },
+    {
+      "accountId":"abs",
+      "domainId":"shoperexperience",
+      "projectId":"uca",
+      "NAME": "SrIdhar Pendyala",
+      "TIMEZONE": "IST",
+      "ROLE": "Scrum Master",
+      "Nisum / External": "Nisum",
+      "Email": "spendyala@nisum.com",
+      "Client Email": "sridhar.pendyala@albertsons.com",
+      "Contact": 9959202926
+    },
+    {
+      "accountId":"abs",
+      "domainId":"shoperexperience",
+      "projectId":"uca",
+      "NAME": "Sreekanth Reddy Mothukupally",
+      "TIMEZONE": "IST",
+      "ROLE": "Backend",
+      "Nisum / External": "Nisum",
+      "Email": "smothukupally@nisum.com",
+      "Client Email": "sreekanth.mothukupally@albertsons.com",
+      "Contact": 919985993774
+    },
+    {
+      "accountId":"abs",
+      "domainId":"shoperexperience",
+      "projectId":"uca",
+      "NAME": "Naveen Vadicheral",
+      "TIMEZONE": "IST",
+      "ROLE": "Backend",
+      "Nisum / External": "Nisum",
+      "Email": "nvadicherla@nisum.com",
+      "Client Email": "naveen.vadicherla@albertsons.com",
+      "Contact": 919059543996
+    },
+    {
+      "accountId":"abs",
+      "domainId":"shoperexperience",
+      "projectId":"uca",
+      "NAME": "Anoj Kumar Nayak",
+      "TIMEZONE": "IST",
+      "ROLE": "Backend",
+      "Nisum / External": "Nisum",
+      "Email": "annayak@nisum.com",
+      "Client Email": "anojkumar.nayak@albertsons.com",
+      "Contact": 918984116858
+    },
+    {
+      "accountId":"abs",
+      "domainId":"shoperexperience",
+      "projectId":"uca",
+      "NAME": "Anup Dinesh Kolamkar",
+      "TIMEZONE": "IST",
+      "ROLE": "Backend",
+      "Nisum / External": "External",
+      "Client Email": "anupdinesh.kolamkar@albertsons.com",
+      "Contact": 918660152182
+    },
+    {
+      "accountId":"abs",
+      "domainId":"shoperexperience",
+      "projectId":"uca",
+      "NAME": "Balakrishna Narla",
+      "TIMEZONE": "US",
+      "ROLE": "DEV-Lead",
+      "Nisum / External": "Nisum",
+      "Email": "bnarla@nisum.com",
+      "Client Email": "balakrishna.narla@albertsons.com",
+      "Contact": 14158320995
+    },
+    {
+      "accountId":"abs",
+      "domainId":"shoperexperience",
+      "projectId":"uca",
+      "NAME": "Vinod Kumar Reddy Palle",
+      "TIMEZONE": "US",
+      "ROLE": "Backend",
+      "Nisum / External": "Nisum",
+      "Email": "vpolle@nisum0.onmicrosoft.com",
+      "Client Email": "vinod.polle@albertsons.com"
+    },
+    {
+      "accountId":"abs",
+      "domainId":"shoperexperience",
+      "projectId":"uca",
+      "NAME": "Khai Yuan ​Liew",
+      "TIMEZONE": "US",
+      "ROLE": "Backend",
+      "Nisum / External": "Nisum",
+      "Client Email": "khai.liew@albertsons.com",
+      "Contact": "669-226-8295"
+    },
+    {
+      "accountId":"abs",
+      "domainId":"shoperexperience",
+      "projectId":"uca",
+      "NAME": "Jayaprakash Tondapu",
+      "TIMEZONE": "US",
+      "ROLE": "QA-Lead",
+      "Nisum / External": "Nisum",
+      "Email": "jtondapu@nisum.com",
+      "Client Email": "jayaprakash.tondapu@albertsons.com",
+      "Contact": "1510-219-0439"
+    },
+    {
+      "accountId":"abs",
+      "domainId":"shoperexperience",
+      "projectId":"uca",
+      "NAME": "Rajiv Yedula",
+      "TIMEZONE": "US",
+      "ROLE": "QA",
+      "Nisum / External": "Nisum",
+      "Email": "ryedula@nisum.com",
+      "Client Email": "rajiv.yedula@albertsons.com",
+      "Contact": 4155358812
+    },
+    {
+      "accountId":"abs",
+      "domainId":"shoperexperience",
+      "projectId":"uca",
+      "NAME": "Durga Devarapalli",
+      "TIMEZONE": "US",
+      "ROLE": "Backend",
+      "Nisum / External": "Nisum",
+      "Email": "ddevarapalli@nisum.com",
+      "Client Email": "durgaramesh.devarapalli@albertsons.com",
+      "Contact": 16507094320
+    },
+    {
+      "accountId":"abs",
+      "domainId":"shoperexperience",
+      "projectId":"uca",
+      "NAME": "Leela Satish Kumar Nalluri",
+      "TIMEZONE": "US",
+      "ROLE": "QA",
+      "Nisum / External": "Nisum",
+      "Email": "lenalluri@nisum.com",
+      "Client Email": "leelasatishkumar.nalluri@albertsons.com"
+    },
+    {
+      "accountId":"abs",
+      "domainId":"shoperexperience",
+      "projectId":"uca",
+      "NAME": "Ali Rahmati",
+      "TIMEZONE": "US",
+      "ROLE": "Backend",
+      "Nisum / External": "Nisum",
+      "Email": "arahmati@nisum.com",
+      "Client Email": "ali.rahmati@albertsons.com"
+    },
+    {
+      "accountId":"abs",
+      "domainId":"shoperexperience",
+      "projectId":"uca",
+      "NAME": "Prasad Gundawar",
+      "TIMEZONE": "US",
+      "ROLE": "Backend",
+      "Nisum / External": "Nisum",
+      "Email": "pgundavar@nisum.com",
+      "Client Email": "prasad.gundawar@albertsons.com"
+    },
+    {
+      "accountId":"abs",
+      "domainId":"shoperexperience",
+      "projectId":"uca",
+      "NAME": "Sivanand Sirigina",
+      "TIMEZONE": "US",
+      "ROLE": "QA",
+      "Nisum / External": "Nisum",
+      "Email": "ssirigina@nisum.com",
+      "Client Email": "ssirigina@nisum.com"
+    },
+    {
+      "accountId":"abs",
+      "domainId":"shoperexperience",
+      "projectId":"uca",
+      "NAME": "KarthiK Balerao",
+      "TIMEZONE": "US",
+      "ROLE": "Backend",
+      "Nisum / External": "Nisum",
+      "Email": "kbalerao@nisum.com",
+      "Client Email": "kbalerao@nisum.com"
+    },
+    {
+      "accountId":"abs",
+      "domainId":"shoperexperience",
+      "projectId":"uca",
+      "NAME": "Sowjanya Mukthaparapu",
+      "TIMEZONE": "IST",
+      "ROLE": "QA",
+      "Nisum / External": "Nisum",
+      "Email": "smukthaparapu@nisum.com",
+      "Client Email": "sowjanya.mukthaparapu@albertsons.com"
+    }
+  ]
+}

@@ -1,0 +1,109 @@
+{
+  "B4U": [
+    {
+      "NAME": "Krishna Amarachinta",
+      "TIMEZONE": "IST",
+      "ROLE": "QE",
+      "Nisum / External": "Nisum",
+      "Email": "kamarachinta@nisum.com",
+      "Contact": 9985282133
+    },
+    {
+      "NAME": "Ramalinga Raju",
+      "TIMEZONE": "IST",
+      "ROLE": "QE",
+      "Nisum / External": "Nisum",
+      "Email": "rraju@nisum.com",
+      "Contact": 9703424747
+    },
+    {
+      "NAME": "Pradymna Sethi",
+      "TIMEZONE": "IST",
+      "ROLE": "QE",
+      "Nisum / External": "Nisum",
+      "Email": "psethi@nisum.com",
+      "Contact": 9036395104
+    },
+    {
+      "NAME": "Varra Veera Nagireddy",
+      "TIMEZONE": "IST",
+      "ROLE": "QE",
+      "Nisum / External": "Nisum",
+      "Email": "vevarra@nisum.com",
+      "Contact": 8790972444
+    },
+    {
+      "NAME": "Mandarapu Deepak Babu",
+      "TIMEZONE": "IST",
+      "ROLE": "Data",
+      "Nisum / External": "Nisum",
+      "Email": "dmandarapu@nisum.com",
+      "Contact": 9182235245
+    },
+    {
+      "NAME": "Hazi Pasha",
+      "TIMEZONE": "IST",
+      "ROLE": "Data",
+      "Nisum / External": "Nisum",
+      "Email": "hmohammed@nisum.com",
+      "Contact": 9959987474
+    },
+    {
+      "NAME": "Anusha Illa",
+      "TIMEZONE": "IST",
+      "ROLE": "FE",
+      "Nisum / External": "Nisum",
+      "Email": "ailla@nisum.com"
+    },
+    {
+      "NAME": "Sravanthi Shyamala",
+      "TIMEZONE": "IST",
+      "ROLE": "FE",
+      "Nisum / External": "Nisum",
+      "Email": "ssyamala@nisum.com"
+    },
+    {
+      "NAME": "Pinky Thacherappillil Sabu",
+      "TIMEZONE": "IST",
+      "ROLE": "BE",
+      "Nisum / External": "Nisum",
+      "Email": "psabu@nisum.com",
+      "Contact": 7569610685
+    },
+    {
+      "NAME": "Hari Chandra Nimmagadda",
+      "TIMEZONE": "IST",
+      "ROLE": "BE",
+      "Nisum / External": "Nisum",
+      "Email": "cnimmagadda@nisum.com",
+      "Contact": 9344421208
+    },
+    {
+      "NAME": "Raghunath Bhairava Josula",
+      "TIMEZONE": "IST",
+      "ROLE": "BE",
+      "Nisum / External": "Nisum",
+      "Email": "rjosula@nisum.com",
+      "Contact": 7989401558
+    },
+    {
+      "NAME": "Sikhapalli Vinil Krishna",
+      "TIMEZONE": "IST",
+      "ROLE": "BE",
+      "Nisum / External": "Nisum",
+      "Email": "vsikhapalli@nisum.com"
+    },
+    {
+      "NAME": "Sowbhagya Prakash",
+      "TIMEZONE": "US-PST",
+      "ROLE": "BE",
+      "Nisum / External": "Nisum"
+    },
+    {
+      "NAME": "Selamawit Gebrerufael",
+      "TIMEZONE": "US -CST",
+      "ROLE": "BE",
+      "Nisum / External": "Nisum"
+    }
+  ]
+}
